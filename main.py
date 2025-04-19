@@ -21,6 +21,6 @@ model.to(device)
 
 #model.load_the_model(REQUIRES ARGUMENTS)
 
-agent = Agent(model=model, device=device, epsilon=1.0, nb_warmup=5000, nb_actions=4, learning_rate=settings.TRAIN_LR, memory_capacity=1000000, batch_size=64)
+agent = Agent(model=model, device=device, epsilon=1.0, min_epsilon=0.1, nb_warmup=5000, nb_actions=4, learning_rate=settings.TRAIN_LR, memory_capacity=1000000, batch_size=64)
 
 agent.train(env=environment, epochs=200000)

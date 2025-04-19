@@ -1,3 +1,7 @@
+nohup python -u main.py > runs/duel-target-std.txt 2>&1 &
+
+
+
 #MODEL PERAMETERS
 
 TRAIN_LR = 0.0001
@@ -10,9 +14,9 @@ MODEL_ARCHITECTURE = 'dueling'
 
 #FILE NAMES
 
-GRAPH_NAME = 'duel-target-std'
+GRAPH_NAME = 'duel-Target-Std'
 
-MODEL_NAME = 'duel-target-std'
+MODEL_NAME = 'duel-Target-Std'
 
 LOAD_MODEL_NAME = ''
 

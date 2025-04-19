@@ -68,7 +68,7 @@ class Agent:
             return torch.argmax(av, dim=1, keepdim=True)
         
     def train(self, env, epochs):
-        stats = {"Returns": [], "AvgReturns": [], "Scores": [], "HighScore": [], "Loss": [], "EpsilonCheckpoint": []}
+        stats = {"Returns": [], "AvgReturns": [], "Scores": [], "HighScore": [], "Loss": [], "AvgLoss": [], "EpsilonCheckpoint": []}
         plotter = livePlot()
 
         for epoch in range(1, epochs + 1):
@@ -96,34 +96,34 @@ class Agent:
                     self.model.zero_grad()
                     loss.backward()
                     self.optimizer.step()
+                    stats["Loss"].append(loss.detach().cpu().item())
 
                 state = next_state
                 ep_return +=reward.item()
             
             stats["Returns"].append(ep_return)
-            stats["Loss"].append(loss)
             stats["Scores"].append(score)
 
             if self.epsilon > self.min_epsilon:
                 self.epsilon = self.epsilon * self.epsilon_decay
             
             if epoch % 10 == 0:
-                self.model.save_the_model(f'models/{settings.MODEL_NAME}')
+                self.model.save_the_model(f'models/{settings.MODEL_NAME}.pt')
                 print(" ")
 
-                average_returns = np.mean(stats["Returns"][-100:])
-                average_scores = np.mean(stats["Scores"][-100:])
+                average_returns = np.mean(stats["Returns"][-10:])
+                average_loss = np.mean(stats["Loss"][-10:])
                 high_score = np.max(stats["Scores"][:])
 
                 stats["AvgReturns"].append(average_returns)
-                stats["AvgScores"].append(average_scores)
+                stats["AvgLoss"].append(average_loss)
                 stats["HighScore"].append(high_score)
                 stats["EpsilonCheckpoint"].append(self.epsilon)
 
                 if (len(stats["Returns"])) > 100:
-                    print(f"Epoch: {epoch} - Average Return (prev 100): {np.mean(stats['Returns'][-100:])} - Average Score (prev 100): {np.max(stats['Scores'][-100:])} - High Score: {np.mean(stats['Scores'][:])} - Epsilon: {self.epsilon}")
+                    print(f"Epoch: {epoch} - Average Return (prev 100): {np.mean(stats['Returns'][-100:])} - Average Score (prev 100): {np.mean(stats['Scores'][-100:])} - High Score: {np.max(stats['Scores'][:])} - Epsilon: {self.epsilon}")
                 else:
-                    print(f"Epoch: {epoch} - Episode Return: {np.mean(stats['Returns'][-1:])} - Episode Score: {np.mean(stats['Scores'][-1:])} - High Score: {np.mean(stats['Scores'][:])} - Epsilon: {self.epsilon}")
+                    print(f"Epoch: {epoch} - Episode Return: {np.mean(stats['Returns'][-1:])} - Episode Score: {np.mean(stats['Scores'][-1:])} - High Score: {np.max(stats['Scores'][:])} - Epsilon: {self.epsilon}")
 
             if epoch % 100 == 0:
                 if settings.TARGET_NETWORK:

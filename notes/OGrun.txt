@@ -1,5 +1,0 @@
-this is how you run this in the background
-
-nohup python -u main.py > runs/log1.txt 2>&1 &
-
-agent = Agent(model=model, device=device, epsilon=1.0, nb_warmup=5000, nb_actions=4, learning_rate=0.00001, memory_capacity=1000000, batch_size=64)

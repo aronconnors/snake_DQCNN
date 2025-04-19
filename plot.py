@@ -10,24 +10,27 @@ class livePlot():
         self.loss_data = None
         self.epochs = 0
 
-    def update_plot(self, stats):
-        self.data = stats["AvgReturns"]
-        self.score_data = stats["HighScore"]
-        self.loss_data = stats["Loss"]
-        self.eps_data = stats["EpsilonCheckpoint"]
-
-        self.epochs = len(self.data)
-
-        self.ax.clear()
-        self.ax.set_xlim(0, self.epochs)
-
         self.fig, self.ax = plt.subplots()
         self.ax.set_xlabel("Episodes * 10")
         self.ax.set_title("Training Stats")
 
-        self.ax.plot(self.data, 'o-', label='AvgReturns[-100:]')
+    def update_plot(self, stats):
+        self.data = stats["AvgReturns"]
+        self.score_data = stats["HighScore"]
+        self.loss_data = stats["AvgLoss"]
+        self.eps_data = stats["EpsilonCheckpoint"]
+
+        self.epochs = len(self.data)
+
+        self.ax.cla()
+        self.ax.set_xlim(0, self.epochs)
+
+        self.ax.set_xlabel("Episodes * 10")
+        self.ax.set_title("Training Stats")
+
+        self.ax.plot(self.data, 'o-', label='AvgReturns[-10:]')
         self.ax.plot(self.eps_data, 'r-', label='Epsilon')
-        self.ax.plot(self.loss_data, 'b-', label='Loss')
+        self.ax.plot(self.loss_data, 'b-', label='AvgLoss[-10:]')
         self.ax.plot(self.score_data, 'g-', label='High Score')
         self.ax.legend(loc='upper left')
 
