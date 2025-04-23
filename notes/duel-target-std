@@ -14,9 +14,9 @@ MODEL_ARCHITECTURE = 'dueling'
 
 #FILE NAMES
 
-GRAPH_NAME = 'duel-Target-Std'
+GRAPH_NAME = 'duel-target-std'
 
-MODEL_NAME = 'duel-Target-Std'
+MODEL_NAME = 'duel-target-std'
 
 LOAD_MODEL_NAME = ''
 

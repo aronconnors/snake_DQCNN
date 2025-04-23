@@ -2,17 +2,17 @@
 
 TRAIN_LR = 0.0001
 
-TARGET_NETWORK = True
+TARGET_NETWORK = False
 
 #base or dueling
-MODEL_ARCHITECTURE = 'dueling'
+MODEL_ARCHITECTURE = 'base'
 
 
 #FILE NAMES
 
-GRAPH_NAME = 'duel-target-std'
+GRAPH_NAME = 'base-noTarget-lm'
 
-MODEL_NAME = 'duel-target-std'
+MODEL_NAME = 'base-noTarget-lm'
 
 LOAD_MODEL_NAME = ''
 
@@ -20,6 +20,6 @@ LOAD_MODEL_NAME = ''
 #GAME SETTINGS
 
 #standard, findFood or lengthMax
-REWARD_STRUCTURE = 'standard'
+REWARD_STRUCTURE = 'lengthMax'
 
 SNAKE_SPEED = 500

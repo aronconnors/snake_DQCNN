@@ -1,0 +1,29 @@
+nohup python -u main.py > runs/base-noTarget-std.txt 2>&1 &
+
+
+
+#MODEL PERAMETERS
+
+TRAIN_LR = 0.0001
+
+TARGET_NETWORK = False
+
+#base or dueling
+MODEL_ARCHITECTURE = 'base'
+
+
+#FILE NAMES
+
+GRAPH_NAME = 'base-noTarget-std'
+
+MODEL_NAME = 'base-noTarget-std'
+
+LOAD_MODEL_NAME = ''
+
+
+#GAME SETTINGS
+
+#standard, findFood or lengthMax
+REWARD_STRUCTURE = 'standard'
+
+SNAKE_SPEED = 500

@@ -1,0 +1,2048 @@
+nohup: ignoring input
+pygame 2.6.1 (SDL 2.28.4, Python 3.10.16)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ALSA lib confmisc.c:767:(parse_card) cannot find card '0'
+ALSA lib conf.c:4568:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4568:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1246:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4568:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:5047:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2565:(snd_pcm_open_noupdate) Unknown PCM default
+cuda:0
+Starting epsilon is 1.0
+Epsilon decay is 0.99964
+ 
+/u/erdos/csga/aconnors9/.conda/envs/snake/lib/python3.10/site-packages/numpy/_core/fromnumeric.py:3860: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/u/erdos/csga/aconnors9/.conda/envs/snake/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+Epoch: 10 - Episode Return: -10.0 - Episode Score: 0.0 - High Score: 1 - Epsilon: 0.9964058264048054
+ 
+Epoch: 20 - Episode Return: -10.0 - Episode Score: 0.0 - High Score: 1 - Epsilon: 0.9928245708934431
+ 
+Epoch: 30 - Episode Return: -10.0 - Episode Score: 0.0 - High Score: 1 - Epsilon: 0.9892561870360774
+ 
+Epoch: 40 - Episode Return: -10.0 - Episode Score: 0.0 - High Score: 1 - Epsilon: 0.9857006285697496
+ 
+Epoch: 50 - Episode Return: -10.0 - Episode Score: 0.0 - High Score: 1 - Epsilon: 0.9821578493977774
+ 
+Epoch: 60 - Episode Return: -10.0 - Episode Score: 0.0 - High Score: 1 - Epsilon: 0.9786278035891588
+ 
+Epoch: 70 - Episode Return: -10.0 - Episode Score: 0.0 - High Score: 1 - Epsilon: 0.9751104453779752
+ 
+Epoch: 80 - Episode Return: -10.0 - Episode Score: 0.0 - High Score: 1 - Epsilon: 0.9716057291627993
+ 
+Epoch: 90 - Episode Return: -10.0 - Episode Score: 0.0 - High Score: 1 - Epsilon: 0.9681136095061026
+ 
+Epoch: 100 - Episode Return: -10.0 - Episode Score: 0.0 - High Score: 1 - Epsilon: 0.9646340411336669
+ 
+Epoch: 110 - Average Return (prev 100): -9.825 - Average Score (prev 100): 0.07 - High Score: 1 - Epsilon: 0.9611669789339986
+ 
+Epoch: 120 - Average Return (prev 100): -9.825 - Average Score (prev 100): 0.07 - High Score: 1 - Epsilon: 0.957712377957741
+ 
+Epoch: 130 - Average Return (prev 100): -9.725 - Average Score (prev 100): 0.11 - High Score: 1 - Epsilon: 0.9542701934170943
+ 
+Epoch: 140 - Average Return (prev 100): -9.675 - Average Score (prev 100): 0.13 - High Score: 1 - Epsilon: 0.9508403806852332
+ 
+Epoch: 150 - Average Return (prev 100): -9.725 - Average Score (prev 100): 0.11 - High Score: 1 - Epsilon: 0.9474228952957295
+ 
+Epoch: 160 - Average Return (prev 100): -9.65 - Average Score (prev 100): 0.14 - High Score: 1 - Epsilon: 0.9440176929419748
+ 
+Epoch: 170 - Average Return (prev 100): -9.65 - Average Score (prev 100): 0.14 - High Score: 1 - Epsilon: 0.9406247294766062
+ 
+Epoch: 180 - Average Return (prev 100): -9.625 - Average Score (prev 100): 0.15 - High Score: 1 - Epsilon: 0.9372439609109342
+ 
+Epoch: 190 - Average Return (prev 100): -9.625 - Average Score (prev 100): 0.15 - High Score: 1 - Epsilon: 0.9338753434143724
+ 
+Epoch: 200 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.19 - High Score: 2 - Epsilon: 0.9305188333138692
+ 
+Epoch: 210 - Average Return (prev 100): -9.525 - Average Score (prev 100): 0.18 - High Score: 2 - Epsilon: 0.9271743870933412
+ 
+Epoch: 220 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.19 - High Score: 2 - Epsilon: 0.9238419613931096
+ 
+Epoch: 230 - Average Return (prev 100): -9.55 - Average Score (prev 100): 0.17 - High Score: 2 - Epsilon: 0.9205215130093376
+ 
+Epoch: 240 - Average Return (prev 100): -9.6 - Average Score (prev 100): 0.15 - High Score: 2 - Epsilon: 0.9172129988934709
+ 
+Epoch: 250 - Average Return (prev 100): -9.575 - Average Score (prev 100): 0.16 - High Score: 2 - Epsilon: 0.9139163761516786
+ 
+Epoch: 260 - Average Return (prev 100): -9.625 - Average Score (prev 100): 0.14 - High Score: 2 - Epsilon: 0.9106316020442983
+ 
+Epoch: 270 - Average Return (prev 100): -9.575 - Average Score (prev 100): 0.16 - High Score: 2 - Epsilon: 0.9073586339852808
+ 
+Epoch: 280 - Average Return (prev 100): -9.6 - Average Score (prev 100): 0.15 - High Score: 2 - Epsilon: 0.9040974295416391
+ 
+Epoch: 290 - Average Return (prev 100): -9.6 - Average Score (prev 100): 0.15 - High Score: 2 - Epsilon: 0.9008479464328975
+ 
+Epoch: 300 - Average Return (prev 100): -9.7 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.8976101425305429
+ 
+Epoch: 310 - Average Return (prev 100): -9.7 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.894383975857481
+ 
+Epoch: 320 - Average Return (prev 100): -9.725 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.8911694045874888
+ 
+Epoch: 330 - Average Return (prev 100): -9.7 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.8879663870446752
+ 
+Epoch: 340 - Average Return (prev 100): -9.625 - Average Score (prev 100): 0.15 - High Score: 2 - Epsilon: 0.8847748817029388
+ 
+Epoch: 350 - Average Return (prev 100): -9.65 - Average Score (prev 100): 0.14 - High Score: 2 - Epsilon: 0.8815948471854308
+ 
+Epoch: 360 - Average Return (prev 100): -9.65 - Average Score (prev 100): 0.14 - High Score: 2 - Epsilon: 0.8784262422640171
+ 
+Epoch: 370 - Average Return (prev 100): -9.725 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.8752690258587459
+ 
+Epoch: 380 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.1 - High Score: 2 - Epsilon: 0.8721231570373127
+ 
+Epoch: 390 - Average Return (prev 100): -9.7 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.8689885950145314
+ 
+Epoch: 400 - Average Return (prev 100): -9.7 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.8658652991518049
+ 
+Epoch: 410 - Average Return (prev 100): -9.725 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.8627532289565982
+ 
+Epoch: 420 - Average Return (prev 100): -9.725 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.8596523440819136
+ 
+Epoch: 430 - Average Return (prev 100): -9.775 - Average Score (prev 100): 0.09 - High Score: 2 - Epsilon: 0.8565626043257673
+ 
+Epoch: 440 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.1 - High Score: 2 - Epsilon: 0.8534839696306684
+ 
+Epoch: 450 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.1 - High Score: 2 - Epsilon: 0.8504164000830999
+ 
+Epoch: 460 - Average Return (prev 100): -9.7 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.8473598559130009
+ 
+Epoch: 470 - Average Return (prev 100): -9.65 - Average Score (prev 100): 0.14 - High Score: 2 - Epsilon: 0.8443142974932504
+ 
+Epoch: 480 - Average Return (prev 100): -9.65 - Average Score (prev 100): 0.14 - High Score: 2 - Epsilon: 0.8412796853391548
+ 
+Epoch: 490 - Average Return (prev 100): -9.65 - Average Score (prev 100): 0.14 - High Score: 2 - Epsilon: 0.8382559801079351
+ 
+Epoch: 500 - Average Return (prev 100): -9.675 - Average Score (prev 100): 0.13 - High Score: 2 - Epsilon: 0.8352431425982172
+ 
+Epoch: 510 - Average Return (prev 100): -9.7 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.8322411337495232
+ 
+Epoch: 520 - Average Return (prev 100): -9.7 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.8292499146417657
+ 
+Epoch: 530 - Average Return (prev 100): -9.725 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.8262694464947428
+ 
+Epoch: 540 - Average Return (prev 100): -9.8 - Average Score (prev 100): 0.08 - High Score: 2 - Epsilon: 0.8232996906676353
+ 
+Epoch: 550 - Average Return (prev 100): -9.8 - Average Score (prev 100): 0.08 - High Score: 2 - Epsilon: 0.8203406086585058
+ 
+Epoch: 560 - Average Return (prev 100): -9.825 - Average Score (prev 100): 0.07 - High Score: 2 - Epsilon: 0.8173921621037993
+ 
+Epoch: 570 - Average Return (prev 100): -9.875 - Average Score (prev 100): 0.05 - High Score: 2 - Epsilon: 0.8144543127778467
+ 
+Epoch: 580 - Average Return (prev 100): -9.875 - Average Score (prev 100): 0.05 - High Score: 2 - Epsilon: 0.8115270225923681
+ 
+Epoch: 590 - Average Return (prev 100): -9.925 - Average Score (prev 100): 0.03 - High Score: 2 - Epsilon: 0.8086102535959797
+ 
+Epoch: 600 - Average Return (prev 100): -9.9 - Average Score (prev 100): 0.04 - High Score: 2 - Epsilon: 0.8057039679737014
+ 
+Epoch: 610 - Average Return (prev 100): -9.825 - Average Score (prev 100): 0.06 - High Score: 2 - Epsilon: 0.8028081280464668
+ 
+Epoch: 620 - Average Return (prev 100): -9.825 - Average Score (prev 100): 0.06 - High Score: 2 - Epsilon: 0.7999226962706345
+ 
+Epoch: 630 - Average Return (prev 100): -9.8 - Average Score (prev 100): 0.07 - High Score: 2 - Epsilon: 0.7970476352375018
+ 
+Epoch: 640 - Average Return (prev 100): -9.8 - Average Score (prev 100): 0.07 - High Score: 2 - Epsilon: 0.794182907672819
+ 
+Epoch: 650 - Average Return (prev 100): -9.775 - Average Score (prev 100): 0.08 - High Score: 2 - Epsilon: 0.7913284764363065
+ 
+Epoch: 660 - Average Return (prev 100): -9.825 - Average Score (prev 100): 0.06 - High Score: 2 - Epsilon: 0.7884843045211736
+ 
+Epoch: 670 - Average Return (prev 100): -9.8 - Average Score (prev 100): 0.07 - High Score: 2 - Epsilon: 0.7856503550536383
+ 
+Epoch: 680 - Average Return (prev 100): -9.775 - Average Score (prev 100): 0.08 - High Score: 2 - Epsilon: 0.7828265912924492
+ 
+Epoch: 690 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.09 - High Score: 2 - Epsilon: 0.7800129766284097
+ 
+Epoch: 700 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.09 - High Score: 2 - Epsilon: 0.7772094745839029
+ 
+Epoch: 710 - Average Return (prev 100): -9.775 - Average Score (prev 100): 0.09 - High Score: 2 - Epsilon: 0.7744160488124183
+ 
+Epoch: 720 - Average Return (prev 100): -9.775 - Average Score (prev 100): 0.09 - High Score: 2 - Epsilon: 0.7716326630980817
+ 
+Epoch: 730 - Average Return (prev 100): -9.775 - Average Score (prev 100): 0.09 - High Score: 2 - Epsilon: 0.7688592813551847
+ 
+Epoch: 740 - Average Return (prev 100): -9.775 - Average Score (prev 100): 0.09 - High Score: 2 - Epsilon: 0.7660958676277174
+ 
+Epoch: 750 - Average Return (prev 100): -9.675 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.7633423860889021
+ 
+Epoch: 760 - Average Return (prev 100): -9.675 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.7605988010407287
+ 
+Epoch: 770 - Average Return (prev 100): -9.7 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.7578650769134914
+ 
+Epoch: 780 - Average Return (prev 100): -9.675 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.7551411782653288
+ 
+Epoch: 790 - Average Return (prev 100): -9.675 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.7524270697817632
+ 
+Epoch: 800 - Average Return (prev 100): -9.675 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.7497227162752439
+ 
+Epoch: 810 - Average Return (prev 100): -9.7 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.74702808268469
+ 
+Epoch: 820 - Average Return (prev 100): -9.675 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.7443431340750357
+ 
+Epoch: 830 - Average Return (prev 100): -9.675 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.7416678356367787
+ 
+Epoch: 840 - Average Return (prev 100): -9.65 - Average Score (prev 100): 0.13 - High Score: 2 - Epsilon: 0.7390021526855279
+ 
+Epoch: 850 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.1 - High Score: 2 - Epsilon: 0.7363460506615535
+ 
+Epoch: 860 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.1 - High Score: 2 - Epsilon: 0.73369949512934
+ 
+Epoch: 870 - Average Return (prev 100): -9.725 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.7310624517771384
+ 
+Epoch: 880 - Average Return (prev 100): -9.725 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.7284348864165227
+ 
+Epoch: 890 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.1 - High Score: 2 - Epsilon: 0.7258167649819458
+ 
+Epoch: 900 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.1 - High Score: 2 - Epsilon: 0.7232080535302982
+ 
+Epoch: 910 - Average Return (prev 100): -9.725 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.7206087182404673
+ 
+Epoch: 920 - Average Return (prev 100): -9.725 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.7180187254129002
+ 
+Epoch: 930 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.1 - High Score: 2 - Epsilon: 0.7154380414691658
+ 
+Epoch: 940 - Average Return (prev 100): -9.775 - Average Score (prev 100): 0.09 - High Score: 2 - Epsilon: 0.7128666329515196
+ 
+Epoch: 950 - Average Return (prev 100): -9.8 - Average Score (prev 100): 0.08 - High Score: 2 - Epsilon: 0.7103044665224701
+ 
+Epoch: 960 - Average Return (prev 100): -9.8 - Average Score (prev 100): 0.08 - High Score: 2 - Epsilon: 0.7077515089643465
+ 
+Epoch: 970 - Average Return (prev 100): -9.825 - Average Score (prev 100): 0.07 - High Score: 2 - Epsilon: 0.7052077271788675
+ 
+Epoch: 980 - Average Return (prev 100): -9.85 - Average Score (prev 100): 0.06 - High Score: 2 - Epsilon: 0.702673088186714
+ 
+Epoch: 990 - Average Return (prev 100): -9.825 - Average Score (prev 100): 0.07 - High Score: 2 - Epsilon: 0.7001475591270995
+ 
+Epoch: 1000 - Average Return (prev 100): -9.825 - Average Score (prev 100): 0.07 - High Score: 2 - Epsilon: 0.6976311072573451
+ 
+Epoch: 1010 - Average Return (prev 100): -9.825 - Average Score (prev 100): 0.07 - High Score: 2 - Epsilon: 0.6951236999524544
+ 
+Epoch: 1020 - Average Return (prev 100): -9.825 - Average Score (prev 100): 0.07 - High Score: 2 - Epsilon: 0.6926253047046915
+ 
+Epoch: 1030 - Average Return (prev 100): -9.775 - Average Score (prev 100): 0.09 - High Score: 2 - Epsilon: 0.6901358891231585
+ 
+Epoch: 1040 - Average Return (prev 100): -9.775 - Average Score (prev 100): 0.09 - High Score: 2 - Epsilon: 0.687655420933376
+ 
+Epoch: 1050 - Average Return (prev 100): -9.725 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.6851838679768649
+ 
+Epoch: 1060 - Average Return (prev 100): -9.65 - Average Score (prev 100): 0.14 - High Score: 2 - Epsilon: 0.6827211982107292
+ 
+Epoch: 1070 - Average Return (prev 100): -9.625 - Average Score (prev 100): 0.15 - High Score: 2 - Epsilon: 0.6802673797072406
+ 
+Epoch: 1080 - Average Return (prev 100): -9.6 - Average Score (prev 100): 0.16 - High Score: 2 - Epsilon: 0.6778223806534245
+ 
+Epoch: 1090 - Average Return (prev 100): -9.525 - Average Score (prev 100): 0.18 - High Score: 2 - Epsilon: 0.675386169350648
+ 
+Epoch: 1100 - Average Return (prev 100): -9.525 - Average Score (prev 100): 0.18 - High Score: 2 - Epsilon: 0.672958714214208
+ 
+Epoch: 1110 - Average Return (prev 100): -9.575 - Average Score (prev 100): 0.16 - High Score: 2 - Epsilon: 0.6705399837729231
+ 
+Epoch: 1120 - Average Return (prev 100): -9.575 - Average Score (prev 100): 0.16 - High Score: 2 - Epsilon: 0.6681299466687244
+ 
+Epoch: 1130 - Average Return (prev 100): -9.525 - Average Score (prev 100): 0.17 - High Score: 2 - Epsilon: 0.665728571656249
+ 
+Epoch: 1140 - Average Return (prev 100): -9.55 - Average Score (prev 100): 0.16 - High Score: 2 - Epsilon: 0.6633358276024356
+ 
+Epoch: 1150 - Average Return (prev 100): -9.575 - Average Score (prev 100): 0.15 - High Score: 2 - Epsilon: 0.6609516834861202
+ 
+Epoch: 1160 - Average Return (prev 100): -9.55 - Average Score (prev 100): 0.15 - High Score: 2 - Epsilon: 0.658576108397635
+ 
+Epoch: 1170 - Average Return (prev 100): -9.575 - Average Score (prev 100): 0.14 - High Score: 2 - Epsilon: 0.6562090715384064
+ 
+Epoch: 1180 - Average Return (prev 100): -9.6 - Average Score (prev 100): 0.13 - High Score: 2 - Epsilon: 0.6538505422205557
+ 
+Epoch: 1190 - Average Return (prev 100): -9.675 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.6515004898665029
+ 
+Epoch: 1200 - Average Return (prev 100): -9.65 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.6491588840085684
+ 
+Epoch: 1210 - Average Return (prev 100): -9.625 - Average Score (prev 100): 0.13 - High Score: 2 - Epsilon: 0.6468256942885788
+ 
+Epoch: 1220 - Average Return (prev 100): -9.625 - Average Score (prev 100): 0.13 - High Score: 2 - Epsilon: 0.6445008904574734
+ 
+Epoch: 1230 - Average Return (prev 100): -9.7 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.6421844423749118
+ 
+Epoch: 1240 - Average Return (prev 100): -9.675 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.6398763200088831
+ 
+Epoch: 1250 - Average Return (prev 100): -9.7 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.6375764934353169
+ 
+Epoch: 1260 - Average Return (prev 100): -9.8 - Average Score (prev 100): 0.08 - High Score: 2 - Epsilon: 0.6352849328376948
+ 
+Epoch: 1270 - Average Return (prev 100): -9.8 - Average Score (prev 100): 0.08 - High Score: 2 - Epsilon: 0.6330016085066644
+ 
+Epoch: 1280 - Average Return (prev 100): -9.8 - Average Score (prev 100): 0.08 - High Score: 2 - Epsilon: 0.6307264908396543
+ 
+Epoch: 1290 - Average Return (prev 100): -9.775 - Average Score (prev 100): 0.09 - High Score: 2 - Epsilon: 0.6284595503404886
+ 
+Epoch: 1300 - Average Return (prev 100): -9.8 - Average Score (prev 100): 0.08 - High Score: 2 - Epsilon: 0.626200757619007
+ 
+Epoch: 1310 - Average Return (prev 100): -9.825 - Average Score (prev 100): 0.07 - High Score: 2 - Epsilon: 0.6239500833906819
+ 
+Epoch: 1320 - Average Return (prev 100): -9.85 - Average Score (prev 100): 0.06 - High Score: 2 - Epsilon: 0.6217074984762396
+ 
+Epoch: 1330 - Average Return (prev 100): -9.85 - Average Score (prev 100): 0.06 - High Score: 2 - Epsilon: 0.6194729738012821
+ 
+Epoch: 1340 - Average Return (prev 100): -9.825 - Average Score (prev 100): 0.07 - High Score: 2 - Epsilon: 0.6172464803959089
+ 
+Epoch: 1350 - Average Return (prev 100): -9.775 - Average Score (prev 100): 0.09 - High Score: 2 - Epsilon: 0.6150279893943432
+ 
+Epoch: 1360 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.1 - High Score: 2 - Epsilon: 0.6128174720345566
+ 
+Epoch: 1370 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.1 - High Score: 2 - Epsilon: 0.6106148996578962
+ 
+Epoch: 1380 - Average Return (prev 100): -9.7 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.6084202437087132
+ 
+Epoch: 1390 - Average Return (prev 100): -9.65 - Average Score (prev 100): 0.14 - High Score: 2 - Epsilon: 0.6062334757339936
+ 
+Epoch: 1400 - Average Return (prev 100): -9.625 - Average Score (prev 100): 0.15 - High Score: 2 - Epsilon: 0.6040545673829874
+ 
+Epoch: 1410 - Average Return (prev 100): -9.575 - Average Score (prev 100): 0.17 - High Score: 2 - Epsilon: 0.6018834904068427
+ 
+Epoch: 1420 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.2 - High Score: 2 - Epsilon: 0.5997202166582389
+ 
+Epoch: 1430 - Average Return (prev 100): -9.475 - Average Score (prev 100): 0.21 - High Score: 2 - Epsilon: 0.5975647180910214
+ 
+Epoch: 1440 - Average Return (prev 100): -9.425 - Average Score (prev 100): 0.23 - High Score: 2 - Epsilon: 0.5954169667598386
+ 
+Epoch: 1450 - Average Return (prev 100): -9.475 - Average Score (prev 100): 0.21 - High Score: 2 - Epsilon: 0.5932769348197795
+ 
+Epoch: 1460 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.2 - High Score: 2 - Epsilon: 0.5911445945260122
+ 
+Epoch: 1470 - Average Return (prev 100): -9.475 - Average Score (prev 100): 0.21 - High Score: 2 - Epsilon: 0.5890199182334248
+ 
+Epoch: 1480 - Average Return (prev 100): -9.475 - Average Score (prev 100): 0.21 - High Score: 2 - Epsilon: 0.5869028783962666
+ 
+Epoch: 1490 - Average Return (prev 100): -9.55 - Average Score (prev 100): 0.18 - High Score: 2 - Epsilon: 0.5847934475677908
+ 
+Epoch: 1500 - Average Return (prev 100): -9.575 - Average Score (prev 100): 0.17 - High Score: 2 - Epsilon: 0.5826915983998999
+ 
+Epoch: 1510 - Average Return (prev 100): -9.625 - Average Score (prev 100): 0.15 - High Score: 2 - Epsilon: 0.5805973036427895
+ 
+Epoch: 1520 - Average Return (prev 100): -9.7 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.5785105361445954
+ 
+Epoch: 1530 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.1 - High Score: 2 - Epsilon: 0.5764312688510425
+ 
+Epoch: 1540 - Average Return (prev 100): -9.825 - Average Score (prev 100): 0.07 - High Score: 2 - Epsilon: 0.5743594748050935
+ 
+Epoch: 1550 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.1 - High Score: 2 - Epsilon: 0.5722951271465991
+ 
+Epoch: 1560 - Average Return (prev 100): -9.725 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.5702381991119502
+ 
+Epoch: 1570 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.1 - High Score: 2 - Epsilon: 0.5681886640337306
+ 
+Epoch: 1580 - Average Return (prev 100): -9.825 - Average Score (prev 100): 0.07 - High Score: 2 - Epsilon: 0.5661464953403716
+ 
+Epoch: 1590 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.09 - High Score: 2 - Epsilon: 0.5641116665558072
+ 
+Epoch: 1600 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.09 - High Score: 2 - Epsilon: 0.5620841512991313
+ 
+Epoch: 1610 - Average Return (prev 100): -9.625 - Average Score (prev 100): 0.13 - High Score: 2 - Epsilon: 0.5600639232842547
+ 
+Epoch: 1620 - Average Return (prev 100): -9.625 - Average Score (prev 100): 0.13 - High Score: 2 - Epsilon: 0.5580509563195653
+ 
+Epoch: 1630 - Average Return (prev 100): -9.625 - Average Score (prev 100): 0.13 - High Score: 2 - Epsilon: 0.5560452243075885
+ 
+Epoch: 1640 - Average Return (prev 100): -9.625 - Average Score (prev 100): 0.13 - High Score: 2 - Epsilon: 0.5540467012446482
+ 
+Epoch: 1650 - Average Return (prev 100): -9.65 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.55205536122053
+ 
+Epoch: 1660 - Average Return (prev 100): -9.65 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.5500711784181457
+ 
+Epoch: 1670 - Average Return (prev 100): -9.65 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.5480941271131977
+ 
+Epoch: 1680 - Average Return (prev 100): -9.6 - Average Score (prev 100): 0.14 - High Score: 2 - Epsilon: 0.5461241816738462
+ 
+Epoch: 1690 - Average Return (prev 100): -9.675 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.5441613165603767
+ 
+Epoch: 1700 - Average Return (prev 100): -9.7 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.5422055063248693
+ 
+Epoch: 1710 - Average Return (prev 100): -9.8 - Average Score (prev 100): 0.08 - High Score: 2 - Epsilon: 0.5402567256108673
+ 
+Epoch: 1720 - Average Return (prev 100): -9.775 - Average Score (prev 100): 0.09 - High Score: 2 - Epsilon: 0.5383149491530506
+ 
+Epoch: 1730 - Average Return (prev 100): -9.7 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.5363801517769062
+ 
+Epoch: 1740 - Average Return (prev 100): -9.65 - Average Score (prev 100): 0.14 - High Score: 2 - Epsilon: 0.5344523083984032
+ 
+Epoch: 1750 - Average Return (prev 100): -9.65 - Average Score (prev 100): 0.14 - High Score: 2 - Epsilon: 0.532531394023667
+ 
+Epoch: 1760 - Average Return (prev 100): -9.675 - Average Score (prev 100): 0.13 - High Score: 2 - Epsilon: 0.530617383748655
+ 
+Epoch: 1770 - Average Return (prev 100): -9.675 - Average Score (prev 100): 0.13 - High Score: 2 - Epsilon: 0.5287102527588344
+ 
+Epoch: 1780 - Average Return (prev 100): -9.725 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.52680997632886
+ 
+Epoch: 1790 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.1 - High Score: 2 - Epsilon: 0.5249165298222538
+ 
+Epoch: 1800 - Average Return (prev 100): -9.725 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.5230298886910855
+ 
+Epoch: 1810 - Average Return (prev 100): -9.7 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.5211500284756545
+ 
+Epoch: 1820 - Average Return (prev 100): -9.725 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.5192769248041725
+ 
+Epoch: 1830 - Average Return (prev 100): -9.775 - Average Score (prev 100): 0.09 - High Score: 2 - Epsilon: 0.5174105533924476
+ 
+Epoch: 1840 - Average Return (prev 100): -9.85 - Average Score (prev 100): 0.06 - High Score: 2 - Epsilon: 0.5155508900435692
+ 
+Epoch: 1850 - Average Return (prev 100): -9.775 - Average Score (prev 100): 0.08 - High Score: 2 - Epsilon: 0.5136979106475957
+ 
+Epoch: 1860 - Average Return (prev 100): -9.775 - Average Score (prev 100): 0.08 - High Score: 2 - Epsilon: 0.5118515911812394
+ 
+Epoch: 1870 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.09 - High Score: 2 - Epsilon: 0.5100119077075576
+ 
+Epoch: 1880 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.09 - High Score: 2 - Epsilon: 0.5081788363756401
+ 
+Epoch: 1890 - Average Return (prev 100): -9.725 - Average Score (prev 100): 0.1 - High Score: 2 - Epsilon: 0.506352353420302
+ 
+Epoch: 1900 - Average Return (prev 100): -9.75 - Average Score (prev 100): 0.09 - High Score: 2 - Epsilon: 0.5045324351617742
+ 
+Epoch: 1910 - Average Return (prev 100): -9.775 - Average Score (prev 100): 0.08 - High Score: 2 - Epsilon: 0.5027190580053965
+ 
+Epoch: 1920 - Average Return (prev 100): -9.625 - Average Score (prev 100): 0.13 - High Score: 2 - Epsilon: 0.5009121984413123
+ 
+Epoch: 1930 - Average Return (prev 100): -9.65 - Average Score (prev 100): 0.12 - High Score: 2 - Epsilon: 0.4991118330441637
+ 
+Epoch: 1940 - Average Return (prev 100): -9.6 - Average Score (prev 100): 0.14 - High Score: 2 - Epsilon: 0.4973179384727872
+ 
+Epoch: 1950 - Average Return (prev 100): -9.7 - Average Score (prev 100): 0.11 - High Score: 2 - Epsilon: 0.49553049146991174
+ 
+Epoch: 1960 - Average Return (prev 100): -9.525 - Average Score (prev 100): 0.15 - High Score: 3 - Epsilon: 0.4937494688618568
+ 
+Epoch: 1970 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.16 - High Score: 3 - Epsilon: 0.49197484755823206
+ 
+Epoch: 1980 - Average Return (prev 100): -9.425 - Average Score (prev 100): 0.19 - High Score: 3 - Epsilon: 0.49020660455163834
+ 
+Epoch: 1990 - Average Return (prev 100): -9.45 - Average Score (prev 100): 0.18 - High Score: 3 - Epsilon: 0.4884447169173688
+ 
+Epoch: 2000 - Average Return (prev 100): -9.45 - Average Score (prev 100): 0.18 - High Score: 3 - Epsilon: 0.48668916181311217
+ 
+Epoch: 2010 - Average Return (prev 100): -9.35 - Average Score (prev 100): 0.21 - High Score: 3 - Epsilon: 0.4849399164786561
+ 
+Epoch: 2020 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.16 - High Score: 3 - Epsilon: 0.48319695823559267
+ 
+Epoch: 2030 - Average Return (prev 100): -9.45 - Average Score (prev 100): 0.18 - High Score: 3 - Epsilon: 0.48146026448702395
+ 
+Epoch: 2040 - Average Return (prev 100): -9.425 - Average Score (prev 100): 0.19 - High Score: 3 - Epsilon: 0.4797298127172693
+ 
+Epoch: 2050 - Average Return (prev 100): -9.35 - Average Score (prev 100): 0.21 - High Score: 3 - Epsilon: 0.4780055804915732
+ 
+Epoch: 2060 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.18 - High Score: 3 - Epsilon: 0.4762875454558147
+ 
+Epoch: 2070 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.18 - High Score: 3 - Epsilon: 0.4745756853362174
+ 
+Epoch: 2080 - Average Return (prev 100): -9.525 - Average Score (prev 100): 0.17 - High Score: 3 - Epsilon: 0.4728699779390606
+ 
+Epoch: 2090 - Average Return (prev 100): -9.375 - Average Score (prev 100): 0.23 - High Score: 3 - Epsilon: 0.4711704011503918
+ 
+Epoch: 2100 - Average Return (prev 100): -9.3 - Average Score (prev 100): 0.26 - High Score: 3 - Epsilon: 0.4694769329357399
+ 
+Epoch: 2110 - Average Return (prev 100): -9.375 - Average Score (prev 100): 0.24 - High Score: 3 - Epsilon: 0.46778955133982936
+ 
+Epoch: 2120 - Average Return (prev 100): -9.35 - Average Score (prev 100): 0.25 - High Score: 3 - Epsilon: 0.4661082344862959
+ 
+Epoch: 2130 - Average Return (prev 100): -9.275 - Average Score (prev 100): 0.27 - High Score: 3 - Epsilon: 0.46443296057740246
+ 
+Epoch: 2140 - Average Return (prev 100): -9.3 - Average Score (prev 100): 0.26 - High Score: 3 - Epsilon: 0.4627637078937571
+ 
+Epoch: 2150 - Average Return (prev 100): -9.3 - Average Score (prev 100): 0.26 - High Score: 3 - Epsilon: 0.461100454794031
+ 
+Epoch: 2160 - Average Return (prev 100): -9.25 - Average Score (prev 100): 0.28 - High Score: 3 - Epsilon: 0.459443179714678
+ 
+Epoch: 2170 - Average Return (prev 100): -9.3 - Average Score (prev 100): 0.26 - High Score: 3 - Epsilon: 0.4577918611696553
+ 
+Epoch: 2180 - Average Return (prev 100): -9.175 - Average Score (prev 100): 0.3 - High Score: 3 - Epsilon: 0.45614647775014433
+ 
+Epoch: 2190 - Average Return (prev 100): -9.275 - Average Score (prev 100): 0.26 - High Score: 3 - Epsilon: 0.4545070081242737
+ 
+Epoch: 2200 - Average Return (prev 100): -9.275 - Average Score (prev 100): 0.26 - High Score: 3 - Epsilon: 0.45287343103684263
+ 
+Epoch: 2210 - Average Return (prev 100): -9.3 - Average Score (prev 100): 0.25 - High Score: 3 - Epsilon: 0.45124572530904467
+ 
+Epoch: 2220 - Average Return (prev 100): -9.3 - Average Score (prev 100): 0.25 - High Score: 3 - Epsilon: 0.4496238698381945
+ 
+Epoch: 2230 - Average Return (prev 100): -9.4 - Average Score (prev 100): 0.22 - High Score: 3 - Epsilon: 0.4480078435974529
+ 
+Epoch: 2240 - Average Return (prev 100): -9.35 - Average Score (prev 100): 0.24 - High Score: 3 - Epsilon: 0.44639762563555485
+ 
+Epoch: 2250 - Average Return (prev 100): -9.45 - Average Score (prev 100): 0.21 - High Score: 3 - Epsilon: 0.444793195076538
+ 
+Epoch: 2260 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.19 - High Score: 3 - Epsilon: 0.44319453111947166
+ 
+Epoch: 2270 - Average Return (prev 100): -9.475 - Average Score (prev 100): 0.2 - High Score: 3 - Epsilon: 0.44160161303818735
+ 
+Epoch: 2280 - Average Return (prev 100): -9.6 - Average Score (prev 100): 0.16 - High Score: 3 - Epsilon: 0.4400144201810101
+ 
+Epoch: 2290 - Average Return (prev 100): -9.6 - Average Score (prev 100): 0.16 - High Score: 3 - Epsilon: 0.43843293197049066
+ 
+Epoch: 2300 - Average Return (prev 100): -9.575 - Average Score (prev 100): 0.17 - High Score: 3 - Epsilon: 0.43685712790313863
+ 
+Epoch: 2310 - Average Return (prev 100): -9.55 - Average Score (prev 100): 0.18 - High Score: 3 - Epsilon: 0.4352869875491566
+ 
+Epoch: 2320 - Average Return (prev 100): -9.525 - Average Score (prev 100): 0.19 - High Score: 3 - Epsilon: 0.4337224905521756
+ 
+Epoch: 2330 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.2 - High Score: 3 - Epsilon: 0.4321636166289909
+ 
+Epoch: 2340 - Average Return (prev 100): -9.575 - Average Score (prev 100): 0.17 - High Score: 3 - Epsilon: 0.4306103455692991
+ 
+Epoch: 2350 - Average Return (prev 100): -9.55 - Average Score (prev 100): 0.18 - High Score: 3 - Epsilon: 0.4290626572354363
+ 
+Epoch: 2360 - Average Return (prev 100): -9.425 - Average Score (prev 100): 0.22 - High Score: 3 - Epsilon: 0.4275205315621166
+ 
+Epoch: 2370 - Average Return (prev 100): -9.325 - Average Score (prev 100): 0.25 - High Score: 3 - Epsilon: 0.42598394855617255
+ 
+Epoch: 2380 - Average Return (prev 100): -9.275 - Average Score (prev 100): 0.26 - High Score: 3 - Epsilon: 0.42445288829629524
+ 
+Epoch: 2390 - Average Return (prev 100): -9.125 - Average Score (prev 100): 0.3 - High Score: 3 - Epsilon: 0.4229273309327766
+ 
+Epoch: 2400 - Average Return (prev 100): -9.025 - Average Score (prev 100): 0.33 - High Score: 3 - Epsilon: 0.421407256687252
+ 
+Epoch: 2410 - Average Return (prev 100): -9.05 - Average Score (prev 100): 0.32 - High Score: 3 - Epsilon: 0.4198926458524433
+ 
+Epoch: 2420 - Average Return (prev 100): -9.0 - Average Score (prev 100): 0.34 - High Score: 3 - Epsilon: 0.418383478791904
+ 
+Epoch: 2430 - Average Return (prev 100): -8.925 - Average Score (prev 100): 0.36 - High Score: 3 - Epsilon: 0.4168797359397645
+ 
+Epoch: 2440 - Average Return (prev 100): -8.95 - Average Score (prev 100): 0.35 - High Score: 3 - Epsilon: 0.4153813978004781
+ 
+Epoch: 2450 - Average Return (prev 100): -8.95 - Average Score (prev 100): 0.35 - High Score: 3 - Epsilon: 0.4138884449485686
+ 
+Epoch: 2460 - Average Return (prev 100): -8.95 - Average Score (prev 100): 0.35 - High Score: 3 - Epsilon: 0.4124008580283783
+ 
+Epoch: 2470 - Average Return (prev 100): -9.025 - Average Score (prev 100): 0.33 - High Score: 3 - Epsilon: 0.4109186177538171
+ 
+Epoch: 2480 - Average Return (prev 100): -9.05 - Average Score (prev 100): 0.33 - High Score: 3 - Epsilon: 0.4094417049081125
+ 
+Epoch: 2490 - Average Return (prev 100): -9.2 - Average Score (prev 100): 0.29 - High Score: 3 - Epsilon: 0.4079701003435603
+ 
+Epoch: 2500 - Average Return (prev 100): -9.3 - Average Score (prev 100): 0.26 - High Score: 3 - Epsilon: 0.4065037849812766
+ 
+Epoch: 2510 - Average Return (prev 100): -9.3 - Average Score (prev 100): 0.26 - High Score: 3 - Epsilon: 0.40504273981095024
+ 
+Epoch: 2520 - Average Return (prev 100): -9.4 - Average Score (prev 100): 0.22 - High Score: 3 - Epsilon: 0.4035869458905964
+ 
+Epoch: 2530 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.19 - High Score: 3 - Epsilon: 0.40213638434631116
+ 
+Epoch: 2540 - Average Return (prev 100): -9.275 - Average Score (prev 100): 0.25 - High Score: 3 - Epsilon: 0.40069103637202663
+ 
+Epoch: 2550 - Average Return (prev 100): -9.225 - Average Score (prev 100): 0.26 - High Score: 3 - Epsilon: 0.39925088322926716
+ 
+Epoch: 2560 - Average Return (prev 100): -9.375 - Average Score (prev 100): 0.21 - High Score: 3 - Epsilon: 0.3978159062469064
+ 
+Epoch: 2570 - Average Return (prev 100): -9.425 - Average Score (prev 100): 0.19 - High Score: 3 - Epsilon: 0.3963860868209254
+ 
+Epoch: 2580 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.16 - High Score: 3 - Epsilon: 0.39496140641417116
+ 
+Epoch: 2590 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.16 - High Score: 3 - Epsilon: 0.3935418465561164
+ 
+Epoch: 2600 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.15 - High Score: 3 - Epsilon: 0.39212738884262033
+ 
+Epoch: 2610 - Average Return (prev 100): -9.45 - Average Score (prev 100): 0.17 - High Score: 3 - Epsilon: 0.3907180149356897
+ 
+Epoch: 2620 - Average Return (prev 100): -9.425 - Average Score (prev 100): 0.18 - High Score: 3 - Epsilon: 0.38931370656324094
+ 
+Epoch: 2630 - Average Return (prev 100): -9.375 - Average Score (prev 100): 0.2 - High Score: 3 - Epsilon: 0.387914445518864
+ 
+Epoch: 2640 - Average Return (prev 100): -9.6 - Average Score (prev 100): 0.14 - High Score: 3 - Epsilon: 0.38652021366158557
+ 
+Epoch: 2650 - Average Return (prev 100): -9.575 - Average Score (prev 100): 0.16 - High Score: 3 - Epsilon: 0.38513099291563413
+ 
+Epoch: 2660 - Average Return (prev 100): -9.55 - Average Score (prev 100): 0.17 - High Score: 3 - Epsilon: 0.3837467652702057
+ 
+Epoch: 2670 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.19 - High Score: 3 - Epsilon: 0.38236751277923015
+ 
+Epoch: 2680 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.19 - High Score: 3 - Epsilon: 0.38099321756113874
+ 
+Epoch: 2690 - Average Return (prev 100): -9.525 - Average Score (prev 100): 0.18 - High Score: 3 - Epsilon: 0.3796238617986324
+ 
+Epoch: 2700 - Average Return (prev 100): -9.55 - Average Score (prev 100): 0.18 - High Score: 3 - Epsilon: 0.37825942773844984
+ 
+Epoch: 2710 - Average Return (prev 100): -9.575 - Average Score (prev 100): 0.17 - High Score: 3 - Epsilon: 0.3768998976911389
+ 
+Epoch: 2720 - Average Return (prev 100): -9.55 - Average Score (prev 100): 0.18 - High Score: 3 - Epsilon: 0.37554525403082584
+ 
+Epoch: 2730 - Average Return (prev 100): -9.575 - Average Score (prev 100): 0.17 - High Score: 3 - Epsilon: 0.3741954791949877
+ 
+Epoch: 2740 - Average Return (prev 100): -9.525 - Average Score (prev 100): 0.19 - High Score: 3 - Epsilon: 0.37285055568422387
+ 
+Epoch: 2750 - Average Return (prev 100): -9.575 - Average Score (prev 100): 0.17 - High Score: 3 - Epsilon: 0.37151046606203003
+ 
+Epoch: 2760 - Average Return (prev 100): -9.6 - Average Score (prev 100): 0.16 - High Score: 3 - Epsilon: 0.37017519295457146
+ 
+Epoch: 2770 - Average Return (prev 100): -9.6 - Average Score (prev 100): 0.16 - High Score: 3 - Epsilon: 0.36884471905045807
+ 
+Epoch: 2780 - Average Return (prev 100): -9.525 - Average Score (prev 100): 0.19 - High Score: 3 - Epsilon: 0.36751902710052003
+ 
+Epoch: 2790 - Average Return (prev 100): -9.55 - Average Score (prev 100): 0.18 - High Score: 3 - Epsilon: 0.3661980999175838
+ 
+Epoch: 2800 - Average Return (prev 100): -9.525 - Average Score (prev 100): 0.19 - High Score: 3 - Epsilon: 0.3648819203762496
+ 
+Epoch: 2810 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.2 - High Score: 3 - Epsilon: 0.3635704714126694
+ 
+Epoch: 2820 - Average Return (prev 100): -9.45 - Average Score (prev 100): 0.22 - High Score: 3 - Epsilon: 0.36226373602432554
+ 
+Epoch: 2830 - Average Return (prev 100): -9.45 - Average Score (prev 100): 0.22 - High Score: 3 - Epsilon: 0.36096169726981037
+ 
+Epoch: 2840 - Average Return (prev 100): -9.4 - Average Score (prev 100): 0.23 - High Score: 3 - Epsilon: 0.35966433826860666
+ 
+Epoch: 2850 - Average Return (prev 100): -9.45 - Average Score (prev 100): 0.21 - High Score: 3 - Epsilon: 0.3583716422008686
+ 
+Epoch: 2860 - Average Return (prev 100): -9.4 - Average Score (prev 100): 0.23 - High Score: 3 - Epsilon: 0.35708359230720366
+ 
+Epoch: 2870 - Average Return (prev 100): -9.425 - Average Score (prev 100): 0.22 - High Score: 3 - Epsilon: 0.3558001718884559
+ 
+Epoch: 2880 - Average Return (prev 100): -9.3 - Average Score (prev 100): 0.26 - High Score: 3 - Epsilon: 0.3545213643054888
+ 
+Epoch: 2890 - Average Return (prev 100): -9.25 - Average Score (prev 100): 0.28 - High Score: 3 - Epsilon: 0.35324715297896964
+ 
+Epoch: 2900 - Average Return (prev 100): -9.2 - Average Score (prev 100): 0.3 - High Score: 3 - Epsilon: 0.351977521389155
+ 
+Epoch: 2910 - Average Return (prev 100): -8.975 - Average Score (prev 100): 0.36 - High Score: 3 - Epsilon: 0.35071245307567606
+ 
+Epoch: 2920 - Average Return (prev 100): -9.05 - Average Score (prev 100): 0.33 - High Score: 3 - Epsilon: 0.3494519316373256
+ 
+Epoch: 2930 - Average Return (prev 100): -9.05 - Average Score (prev 100): 0.33 - High Score: 3 - Epsilon: 0.34819594073184496
+ 
+Epoch: 2940 - Average Return (prev 100): -9.1 - Average Score (prev 100): 0.32 - High Score: 3 - Epsilon: 0.3469444640757126
+ 
+Epoch: 2950 - Average Return (prev 100): -9.075 - Average Score (prev 100): 0.33 - High Score: 3 - Epsilon: 0.34569748544393275
+ 
+Epoch: 2960 - Average Return (prev 100): -8.95 - Average Score (prev 100): 0.37 - High Score: 3 - Epsilon: 0.344454988669825
+ 
+Epoch: 2970 - Average Return (prev 100): -8.95 - Average Score (prev 100): 0.37 - High Score: 3 - Epsilon: 0.34321695764481486
+ 
+Epoch: 2980 - Average Return (prev 100): -9.125 - Average Score (prev 100): 0.31 - High Score: 3 - Epsilon: 0.3419833763182249
+ 
+Epoch: 2990 - Average Return (prev 100): -9.15 - Average Score (prev 100): 0.3 - High Score: 3 - Epsilon: 0.34075422869706645
+ 
+Epoch: 3000 - Average Return (prev 100): -9.25 - Average Score (prev 100): 0.26 - High Score: 3 - Epsilon: 0.3395294988458325
+ 
+Epoch: 3010 - Average Return (prev 100): -9.525 - Average Score (prev 100): 0.18 - High Score: 3 - Epsilon: 0.3383091708862912
+ 
+Epoch: 3020 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.19 - High Score: 3 - Epsilon: 0.33709322899727956
+ 
+Epoch: 3030 - Average Return (prev 100): -9.475 - Average Score (prev 100): 0.2 - High Score: 3 - Epsilon: 0.33588165741449866
+ 
+Epoch: 3040 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.19 - High Score: 3 - Epsilon: 0.3346744404303093
+ 
+Epoch: 3050 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.19 - High Score: 3 - Epsilon: 0.3334715623935282
+ 
+Epoch: 3060 - Average Return (prev 100): -9.65 - Average Score (prev 100): 0.14 - High Score: 3 - Epsilon: 0.33227300770922513
+ 
+Epoch: 3070 - Average Return (prev 100): -9.575 - Average Score (prev 100): 0.17 - High Score: 3 - Epsilon: 0.3310787608385207
+ 
+Epoch: 3080 - Average Return (prev 100): -9.425 - Average Score (prev 100): 0.22 - High Score: 3 - Epsilon: 0.3298888062983852
+ 
+Epoch: 3090 - Average Return (prev 100): -9.275 - Average Score (prev 100): 0.27 - High Score: 3 - Epsilon: 0.32870312866143725
+ 
+Epoch: 3100 - Average Return (prev 100): -9.125 - Average Score (prev 100): 0.31 - High Score: 3 - Epsilon: 0.3275217125557444
+ 
+Epoch: 3110 - Average Return (prev 100): -9.125 - Average Score (prev 100): 0.31 - High Score: 3 - Epsilon: 0.3263445426646236
+ 
+Epoch: 3120 - Average Return (prev 100): -9.05 - Average Score (prev 100): 0.33 - High Score: 3 - Epsilon: 0.3251716037264425
+ 
+Epoch: 3130 - Average Return (prev 100): -9.075 - Average Score (prev 100): 0.32 - High Score: 3 - Epsilon: 0.3240028805344218
+ 
+Epoch: 3140 - Average Return (prev 100): -9.1 - Average Score (prev 100): 0.31 - High Score: 3 - Epsilon: 0.32283835793643795
+ 
+Epoch: 3150 - Average Return (prev 100): -9.125 - Average Score (prev 100): 0.3 - High Score: 3 - Epsilon: 0.3216780208348269
+ 
+Epoch: 3160 - Average Return (prev 100): -9.1 - Average Score (prev 100): 0.31 - High Score: 3 - Epsilon: 0.3205218541861879
+ 
+Epoch: 3170 - Average Return (prev 100): -9.175 - Average Score (prev 100): 0.28 - High Score: 3 - Epsilon: 0.31936984300118904
+ 
+Epoch: 3180 - Average Return (prev 100): -9.25 - Average Score (prev 100): 0.26 - High Score: 3 - Epsilon: 0.3182219723443727
+ 
+Epoch: 3190 - Average Return (prev 100): -9.35 - Average Score (prev 100): 0.23 - High Score: 3 - Epsilon: 0.3170782273339619
+ 
+Epoch: 3200 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.19 - High Score: 3 - Epsilon: 0.315938593141667
+ 
+Epoch: 3210 - Average Return (prev 100): -9.425 - Average Score (prev 100): 0.22 - High Score: 3 - Epsilon: 0.3148030549924944
+ 
+Epoch: 3220 - Average Return (prev 100): -9.5 - Average Score (prev 100): 0.2 - High Score: 3 - Epsilon: 0.3136715981645538
+ 
+Epoch: 3230 - Average Return (prev 100): -9.45 - Average Score (prev 100): 0.22 - High Score: 3 - Epsilon: 0.31254420798886834
+ 
+Epoch: 3240 - Average Return (prev 100): -9.3 - Average Score (prev 100): 0.27 - High Score: 3 - Epsilon: 0.31142086984918377
+ 
+Epoch: 3250 - Average Return (prev 100): -9.225 - Average Score (prev 100): 0.3 - High Score: 3 - Epsilon: 0.3103015691817793
+ 
+Epoch: 3260 - Average Return (prev 100): -9.25 - Average Score (prev 100): 0.29 - High Score: 3 - Epsilon: 0.30918629147527876
+ 
+Epoch: 3270 - Average Return (prev 100): -9.25 - Average Score (prev 100): 0.29 - High Score: 3 - Epsilon: 0.30807502227046213
+ 
+Epoch: 3280 - Average Return (prev 100): -9.225 - Average Score (prev 100): 0.3 - High Score: 3 - Epsilon: 0.30696774716007863
+ 
+Epoch: 3290 - Average Return (prev 100): -9.25 - Average Score (prev 100): 0.29 - High Score: 3 - Epsilon: 0.3058644517886595
+ 
+Epoch: 3300 - Average Return (prev 100): -9.25 - Average Score (prev 100): 0.29 - High Score: 3 - Epsilon: 0.304765121852332
+ 
+Epoch: 3310 - Average Return (prev 100): -9.275 - Average Score (prev 100): 0.28 - High Score: 3 - Epsilon: 0.3036697430986341
+ 
+Epoch: 3320 - Average Return (prev 100): -9.225 - Average Score (prev 100): 0.29 - High Score: 3 - Epsilon: 0.3025783013263295
+ 
+Epoch: 3330 - Average Return (prev 100): -9.225 - Average Score (prev 100): 0.28 - High Score: 3 - Epsilon: 0.30149078238522364
+ 
+Epoch: 3340 - Average Return (prev 100): -9.3 - Average Score (prev 100): 0.26 - High Score: 3 - Epsilon: 0.3004071721759801
+ 
+Epoch: 3350 - Average Return (prev 100): -9.325 - Average Score (prev 100): 0.25 - High Score: 3 - Epsilon: 0.29932745664993804
+ 
+Epoch: 3360 - Average Return (prev 100): -9.3 - Average Score (prev 100): 0.26 - High Score: 3 - Epsilon: 0.29825162180893
+ 
+Epoch: 3370 - Average Return (prev 100): -9.3 - Average Score (prev 100): 0.26 - High Score: 3 - Epsilon: 0.2971796537051004
+ 
+Epoch: 3380 - Average Return (prev 100): -9.3 - Average Score (prev 100): 0.26 - High Score: 3 - Epsilon: 0.2961115384407246
+ 
+Epoch: 3390 - Average Return (prev 100): -9.3 - Average Score (prev 100): 0.26 - High Score: 3 - Epsilon: 0.29504726216802846
+ 
+Epoch: 3400 - Average Return (prev 100): -9.25 - Average Score (prev 100): 0.28 - High Score: 3 - Epsilon: 0.2939868110890097
+ 
+Epoch: 3410 - Average Return (prev 100): -9.25 - Average Score (prev 100): 0.28 - High Score: 3 - Epsilon: 0.2929301714552581
+ 
+Epoch: 3420 - Average Return (prev 100): -9.275 - Average Score (prev 100): 0.28 - High Score: 3 - Epsilon: 0.2918773295677778
+ 
+Epoch: 3430 - Average Return (prev 100): -9.3 - Average Score (prev 100): 0.28 - High Score: 3 - Epsilon: 0.2908282717768095
+ 
+Epoch: 3440 - Average Return (prev 100): -9.25 - Average Score (prev 100): 0.29 - High Score: 3 - Epsilon: 0.28978298448165324
+ 
+Epoch: 3450 - Average Return (prev 100): -9.1 - Average Score (prev 100): 0.32 - High Score: 3 - Epsilon: 0.2887414541304927
+ 
+Epoch: 3460 - Average Return (prev 100): -9.025 - Average Score (prev 100): 0.35 - High Score: 3 - Epsilon: 0.28770366722021873
+ 
+Epoch: 3470 - Average Return (prev 100): -8.95 - Average Score (prev 100): 0.37 - High Score: 3 - Epsilon: 0.2866696102962552
+ 
+Epoch: 3480 - Average Return (prev 100): -8.925 - Average Score (prev 100): 0.38 - High Score: 3 - Epsilon: 0.2856392699523837
+ 
+Epoch: 3490 - Average Return (prev 100): -8.8 - Average Score (prev 100): 0.43 - High Score: 3 - Epsilon: 0.2846126328305702
+ 
+Epoch: 3500 - Average Return (prev 100): -8.625 - Average Score (prev 100): 0.48 - High Score: 3 - Epsilon: 0.28358968562079173
+ 
+Epoch: 3510 - Average Return (prev 100): -8.625 - Average Score (prev 100): 0.47 - High Score: 3 - Epsilon: 0.2825704150608639
+ 
+Epoch: 3520 - Average Return (prev 100): -8.625 - Average Score (prev 100): 0.47 - High Score: 3 - Epsilon: 0.28155480793626886
+ 
+Epoch: 3530 - Average Return (prev 100): -8.625 - Average Score (prev 100): 0.47 - High Score: 3 - Epsilon: 0.2805428510799842
+ 
+Epoch: 3540 - Average Return (prev 100): -8.5 - Average Score (prev 100): 0.5 - High Score: 3 - Epsilon: 0.2795345313723119
+ 
+Epoch: 3550 - Average Return (prev 100): -8.675 - Average Score (prev 100): 0.46 - High Score: 3 - Epsilon: 0.2785298357407084
+ 
+Epoch: 3560 - Average Return (prev 100): -8.675 - Average Score (prev 100): 0.45 - High Score: 3 - Epsilon: 0.27752875115961523
+ 
+Epoch: 3570 - Average Return (prev 100): -8.725 - Average Score (prev 100): 0.44 - High Score: 3 - Epsilon: 0.27653126465029
+ 
+Epoch: 3580 - Average Return (prev 100): -8.8 - Average Score (prev 100): 0.41 - High Score: 3 - Epsilon: 0.27553736328063816
+ 
+Epoch: 3590 - Average Return (prev 100): -8.9 - Average Score (prev 100): 0.37 - High Score: 3 - Epsilon: 0.2745470341650453
+ 
+Epoch: 3600 - Average Return (prev 100): -9.15 - Average Score (prev 100): 0.29 - High Score: 3 - Epsilon: 0.2735602644642103
+ 
+Epoch: 3610 - Average Return (prev 100): -9.175 - Average Score (prev 100): 0.29 - High Score: 3 - Epsilon: 0.27257704138497857
+ 
+Epoch: 3620 - Average Return (prev 100): -9.15 - Average Score (prev 100): 0.3 - High Score: 3 - Epsilon: 0.27159735218017644
+ 
+Epoch: 3630 - Average Return (prev 100): -9.125 - Average Score (prev 100): 0.3 - High Score: 3 - Epsilon: 0.27062118414844566
+ 
+Epoch: 3640 - Average Return (prev 100): -9.3 - Average Score (prev 100): 0.26 - High Score: 3 - Epsilon: 0.269648524634079
+ 
+Epoch: 3650 - Average Return (prev 100): -9.25 - Average Score (prev 100): 0.28 - High Score: 3 - Epsilon: 0.268679361026856
+ 
+Epoch: 3660 - Average Return (prev 100): -9.3 - Average Score (prev 100): 0.27 - High Score: 3 - Epsilon: 0.26771368076187957
+ 
+Epoch: 3670 - Average Return (prev 100): -9.125 - Average Score (prev 100): 0.32 - High Score: 3 - Epsilon: 0.26675147131941285
+ 
+Epoch: 3680 - Average Return (prev 100): -9.025 - Average Score (prev 100): 0.35 - High Score: 3 - Epsilon: 0.2657927202247174
+ 
+Epoch: 3690 - Average Return (prev 100): -9.05 - Average Score (prev 100): 0.34 - High Score: 3 - Epsilon: 0.26483741504789077
+ 
+Epoch: 3700 - Average Return (prev 100): -8.975 - Average Score (prev 100): 0.37 - High Score: 3 - Epsilon: 0.26388554340370596
+ 
+Epoch: 3710 - Average Return (prev 100): -8.95 - Average Score (prev 100): 0.38 - High Score: 3 - Epsilon: 0.2629370929514508
+ 
+Epoch: 3720 - Average Return (prev 100): -9.0 - Average Score (prev 100): 0.36 - High Score: 3 - Epsilon: 0.26199205139476744
+ 
+Epoch: 3730 - Average Return (prev 100): -8.975 - Average Score (prev 100): 0.37 - High Score: 3 - Epsilon: 0.2610504064814936
+ 
+Epoch: 3740 - Average Return (prev 100): -8.975 - Average Score (prev 100): 0.37 - High Score: 3 - Epsilon: 0.260112146003503
+ 
+Epoch: 3750 - Average Return (prev 100): -8.875 - Average Score (prev 100): 0.4 - High Score: 3 - Epsilon: 0.2591772577965478
+ 
+Epoch: 3760 - Average Return (prev 100): -8.825 - Average Score (prev 100): 0.42 - High Score: 3 - Epsilon: 0.25824572974010057
+ 
+Epoch: 3770 - Average Return (prev 100): -8.975 - Average Score (prev 100): 0.38 - High Score: 3 - Epsilon: 0.25731754975719695
+ 
+Epoch: 3780 - Average Return (prev 100): -9.05 - Average Score (prev 100): 0.36 - High Score: 3 - Epsilon: 0.2563927058142794
+ 
+Epoch: 3790 - Average Return (prev 100): -8.95 - Average Score (prev 100): 0.4 - High Score: 3 - Epsilon: 0.25547118592104123
+ 
+Epoch: 3800 - Average Return (prev 100): -8.925 - Average Score (prev 100): 0.41 - High Score: 3 - Epsilon: 0.2545529781302707
+ 
+Epoch: 3810 - Average Return (prev 100): -8.9 - Average Score (prev 100): 0.41 - High Score: 3 - Epsilon: 0.2536380705376967
+ 
+Epoch: 3820 - Average Return (prev 100): -8.85 - Average Score (prev 100): 0.42 - High Score: 3 - Epsilon: 0.2527264512818341
+ 
+Epoch: 3830 - Average Return (prev 100): -8.825 - Average Score (prev 100): 0.44 - High Score: 3 - Epsilon: 0.2518181085438297
+ 
+Epoch: 3840 - Average Return (prev 100): -8.8 - Average Score (prev 100): 0.45 - High Score: 3 - Epsilon: 0.2509130305473095
+ 
+Epoch: 3850 - Average Return (prev 100): -8.875 - Average Score (prev 100): 0.43 - High Score: 3 - Epsilon: 0.25001120555822615
+ 
+Epoch: 3860 - Average Return (prev 100): -8.875 - Average Score (prev 100): 0.42 - High Score: 3 - Epsilon: 0.24911262188470604
+ 
+Epoch: 3870 - Average Return (prev 100): -8.925 - Average Score (prev 100): 0.4 - High Score: 3 - Epsilon: 0.24821726787689838
+ 
+Epoch: 3880 - Average Return (prev 100): -8.95 - Average Score (prev 100): 0.39 - High Score: 3 - Epsilon: 0.2473251319268239
+ 
+Epoch: 3890 - Average Return (prev 100): -8.9 - Average Score (prev 100): 0.4 - High Score: 3 - Epsilon: 0.2464362024682245
+ 
+Epoch: 3900 - Average Return (prev 100): -8.825 - Average Score (prev 100): 0.43 - High Score: 3 - Epsilon: 0.24555046797641317
+ 
+Epoch: 3910 - Average Return (prev 100): -8.725 - Average Score (prev 100): 0.47 - High Score: 3 - Epsilon: 0.24466791696812468
+ 
+Epoch: 3920 - Average Return (prev 100): -8.6 - Average Score (prev 100): 0.51 - High Score: 3 - Epsilon: 0.24378853800136663
+ 
+Epoch: 3930 - Average Return (prev 100): -8.6 - Average Score (prev 100): 0.5 - High Score: 3 - Epsilon: 0.24291231967527105
+ 
+Epoch: 3940 - Average Return (prev 100): -8.575 - Average Score (prev 100): 0.51 - High Score: 3 - Epsilon: 0.24203925062994674
+ 
+Epoch: 3950 - Average Return (prev 100): -8.625 - Average Score (prev 100): 0.49 - High Score: 3 - Epsilon: 0.2411693195463319
+ 
+Epoch: 3960 - Average Return (prev 100): -8.65 - Average Score (prev 100): 0.49 - High Score: 3 - Epsilon: 0.2403025151460474
+ 
+Epoch: 3970 - Average Return (prev 100): -8.65 - Average Score (prev 100): 0.49 - High Score: 3 - Epsilon: 0.23943882619125065
+ 
+Epoch: 3980 - Average Return (prev 100): -8.625 - Average Score (prev 100): 0.49 - High Score: 3 - Epsilon: 0.23857824148448964
+ 
+Epoch: 3990 - Average Return (prev 100): -8.7 - Average Score (prev 100): 0.47 - High Score: 3 - Epsilon: 0.23772074986855815
+ 
+Epoch: 4000 - Average Return (prev 100): -8.825 - Average Score (prev 100): 0.42 - High Score: 3 - Epsilon: 0.23686634022635072
+ 
+Epoch: 4010 - Average Return (prev 100): -8.85 - Average Score (prev 100): 0.42 - High Score: 3 - Epsilon: 0.2360150014807188
+ 
+Epoch: 4020 - Average Return (prev 100): -8.975 - Average Score (prev 100): 0.38 - High Score: 3 - Epsilon: 0.23516672259432697
+ 
+Epoch: 4030 - Average Return (prev 100): -8.975 - Average Score (prev 100): 0.38 - High Score: 3 - Epsilon: 0.23432149256951
+ 
+Epoch: 4040 - Average Return (prev 100): -8.85 - Average Score (prev 100): 0.41 - High Score: 3 - Epsilon: 0.23347930044813003
+ 
+Epoch: 4050 - Average Return (prev 100): -8.825 - Average Score (prev 100): 0.42 - High Score: 3 - Epsilon: 0.23264013531143485
+ 
+Epoch: 4060 - Average Return (prev 100): -8.6 - Average Score (prev 100): 0.47 - High Score: 3 - Epsilon: 0.23180398627991597
+ 
+Epoch: 4070 - Average Return (prev 100): -8.425 - Average Score (prev 100): 0.53 - High Score: 3 - Epsilon: 0.23097084251316782
+ 
+Epoch: 4080 - Average Return (prev 100): -8.475 - Average Score (prev 100): 0.52 - High Score: 3 - Epsilon: 0.23014069320974712
+ 
+Epoch: 4090 - Average Return (prev 100): -8.45 - Average Score (prev 100): 0.53 - High Score: 3 - Epsilon: 0.22931352760703289
+ 
+Epoch: 4100 - Average Return (prev 100): -8.425 - Average Score (prev 100): 0.53 - High Score: 3 - Epsilon: 0.22848933498108673
+ 
+Epoch: 4110 - Average Return (prev 100): -8.5 - Average Score (prev 100): 0.5 - High Score: 3 - Epsilon: 0.2276681046465141
+ 
+Epoch: 4120 - Average Return (prev 100): -8.325 - Average Score (prev 100): 0.55 - High Score: 3 - Epsilon: 0.2268498259563256
+ 
+Epoch: 4130 - Average Return (prev 100): -8.375 - Average Score (prev 100): 0.53 - High Score: 3 - Epsilon: 0.2260344883017989
+ 
+Epoch: 4140 - Average Return (prev 100): -8.525 - Average Score (prev 100): 0.49 - High Score: 3 - Epsilon: 0.22522208111234127
+ 
+Epoch: 4150 - Average Return (prev 100): -8.5 - Average Score (prev 100): 0.5 - High Score: 3 - Epsilon: 0.22441259385535248
+ 
+Epoch: 4160 - Average Return (prev 100): -8.625 - Average Score (prev 100): 0.47 - High Score: 3 - Epsilon: 0.22360601603608846
+ 
+Epoch: 4170 - Average Return (prev 100): -8.65 - Average Score (prev 100): 0.46 - High Score: 3 - Epsilon: 0.22280233719752487
+ 
+Epoch: 4180 - Average Return (prev 100): -8.55 - Average Score (prev 100): 0.49 - High Score: 3 - Epsilon: 0.2220015469202219
+ 
+Epoch: 4190 - Average Return (prev 100): -8.65 - Average Score (prev 100): 0.45 - High Score: 3 - Epsilon: 0.22120363482218885
+ 
+Epoch: 4200 - Average Return (prev 100): -8.55 - Average Score (prev 100): 0.47 - High Score: 3 - Epsilon: 0.22040859055874984
+ 
+Epoch: 4210 - Average Return (prev 100): -8.6 - Average Score (prev 100): 0.45 - High Score: 3 - Epsilon: 0.2196164038224095
+ 
+Epoch: 4220 - Average Return (prev 100): -8.575 - Average Score (prev 100): 0.46 - High Score: 3 - Epsilon: 0.2188270643427194
+ 
+Epoch: 4230 - Average Return (prev 100): -8.575 - Average Score (prev 100): 0.47 - High Score: 3 - Epsilon: 0.21804056188614482
+ 
+Epoch: 4240 - Average Return (prev 100): -8.5 - Average Score (prev 100): 0.49 - High Score: 3 - Epsilon: 0.21725688625593223
+ 
+Epoch: 4250 - Average Return (prev 100): -8.525 - Average Score (prev 100): 0.48 - High Score: 3 - Epsilon: 0.21647602729197693
+ 
+Epoch: 4260 - Average Return (prev 100): -8.625 - Average Score (prev 100): 0.45 - High Score: 3 - Epsilon: 0.21569797487069148
+ 
+Epoch: 4270 - Average Return (prev 100): -8.675 - Average Score (prev 100): 0.43 - High Score: 3 - Epsilon: 0.21492271890487427
+ 
+Epoch: 4280 - Average Return (prev 100): -8.75 - Average Score (prev 100): 0.41 - High Score: 3 - Epsilon: 0.21415024934357893
+ 
+Epoch: 4290 - Average Return (prev 100): -8.75 - Average Score (prev 100): 0.41 - High Score: 3 - Epsilon: 0.21338055617198384
+ 
+Epoch: 4300 - Average Return (prev 100): -8.675 - Average Score (prev 100): 0.45 - High Score: 3 - Epsilon: 0.21261362941126255
+ 
+Epoch: 4310 - Average Return (prev 100): -8.475 - Average Score (prev 100): 0.5 - High Score: 3 - Epsilon: 0.21184945911845404
+ 
+Epoch: 4320 - Average Return (prev 100): -8.425 - Average Score (prev 100): 0.52 - High Score: 3 - Epsilon: 0.21108803538633425
+ 
+Epoch: 4330 - Average Return (prev 100): -8.325 - Average Score (prev 100): 0.54 - High Score: 3 - Epsilon: 0.21032934834328718
+ 
+Epoch: 4340 - Average Return (prev 100): -8.4 - Average Score (prev 100): 0.52 - High Score: 3 - Epsilon: 0.20957338815317725
+ 
+Epoch: 4350 - Average Return (prev 100): -8.1 - Average Score (prev 100): 0.58 - High Score: 4 - Epsilon: 0.20882014501522164
+ 
+Epoch: 4360 - Average Return (prev 100): -7.9 - Average Score (prev 100): 0.64 - High Score: 4 - Epsilon: 0.20806960916386325
+ 
+Epoch: 4370 - Average Return (prev 100): -7.9 - Average Score (prev 100): 0.64 - High Score: 4 - Epsilon: 0.20732177086864398
+ 
+Epoch: 4380 - Average Return (prev 100): -7.775 - Average Score (prev 100): 0.66 - High Score: 4 - Epsilon: 0.20657662043407887
+ 
+Epoch: 4390 - Average Return (prev 100): -7.525 - Average Score (prev 100): 0.74 - High Score: 4 - Epsilon: 0.2058341481995302
+ 
+Epoch: 4400 - Average Return (prev 100): -7.6 - Average Score (prev 100): 0.71 - High Score: 4 - Epsilon: 0.20509434453908204
+ 
+Epoch: 4410 - Average Return (prev 100): -7.725 - Average Score (prev 100): 0.69 - High Score: 4 - Epsilon: 0.20435719986141596
+ 
+Epoch: 4420 - Average Return (prev 100): -7.95 - Average Score (prev 100): 0.62 - High Score: 4 - Epsilon: 0.2036227046096861
+ 
+Epoch: 4430 - Average Return (prev 100): -7.9 - Average Score (prev 100): 0.64 - High Score: 4 - Epsilon: 0.20289084926139586
+ 
+Epoch: 4440 - Average Return (prev 100): -7.8 - Average Score (prev 100): 0.65 - High Score: 4 - Epsilon: 0.20216162432827395
+ 
+Epoch: 4450 - Average Return (prev 100): -7.9 - Average Score (prev 100): 0.64 - High Score: 4 - Epsilon: 0.2014350203561516
+ 
+Epoch: 4460 - Average Return (prev 100): -8.025 - Average Score (prev 100): 0.61 - High Score: 4 - Epsilon: 0.20071102792484002
+ 
+Epoch: 4470 - Average Return (prev 100): -7.875 - Average Score (prev 100): 0.66 - High Score: 4 - Epsilon: 0.19998963764800817
+ 
+Epoch: 4480 - Average Return (prev 100): -8.0 - Average Score (prev 100): 0.64 - High Score: 4 - Epsilon: 0.19927084017306113
+ 
+Epoch: 4490 - Average Return (prev 100): -8.125 - Average Score (prev 100): 0.6 - High Score: 4 - Epsilon: 0.19855462618101885
+ 
+Epoch: 4500 - Average Return (prev 100): -7.825 - Average Score (prev 100): 0.66 - High Score: 4 - Epsilon: 0.19784098638639522
+ 
+Epoch: 4510 - Average Return (prev 100): -7.775 - Average Score (prev 100): 0.67 - High Score: 4 - Epsilon: 0.19712991153707798
+ 
+Epoch: 4520 - Average Return (prev 100): -7.55 - Average Score (prev 100): 0.73 - High Score: 4 - Epsilon: 0.19642139241420836
+ 
+Epoch: 4530 - Average Return (prev 100): -7.675 - Average Score (prev 100): 0.7 - High Score: 4 - Epsilon: 0.1957154198320619
+ 
+Epoch: 4540 - Average Return (prev 100): -7.725 - Average Score (prev 100): 0.7 - High Score: 4 - Epsilon: 0.19501198463792904
+ 
+Epoch: 4550 - Average Return (prev 100): -7.85 - Average Score (prev 100): 0.67 - High Score: 4 - Epsilon: 0.19431107771199693
+ 
+Epoch: 4560 - Average Return (prev 100): -7.8 - Average Score (prev 100): 0.68 - High Score: 4 - Epsilon: 0.1936126899672307
+ 
+Epoch: 4570 - Average Return (prev 100): -7.85 - Average Score (prev 100): 0.65 - High Score: 4 - Epsilon: 0.1929168123492559
+ 
+Epoch: 4580 - Average Return (prev 100): -7.675 - Average Score (prev 100): 0.7 - High Score: 4 - Epsilon: 0.19222343583624105
+ 
+Epoch: 4590 - Average Return (prev 100): -7.6 - Average Score (prev 100): 0.72 - High Score: 4 - Epsilon: 0.19153255143878087
+ 
+Epoch: 4600 - Average Return (prev 100): -7.625 - Average Score (prev 100): 0.7 - High Score: 4 - Epsilon: 0.19084415019977935
+ 
+Epoch: 4610 - Average Return (prev 100): -7.525 - Average Score (prev 100): 0.72 - High Score: 4 - Epsilon: 0.19015822319433395
+ 
+Epoch: 4620 - Average Return (prev 100): -7.675 - Average Score (prev 100): 0.69 - High Score: 4 - Epsilon: 0.18947476152961976
+ 
+Epoch: 4630 - Average Return (prev 100): -7.6 - Average Score (prev 100): 0.71 - High Score: 4 - Epsilon: 0.18879375634477427
+ 
+Epoch: 4640 - Average Return (prev 100): -7.625 - Average Score (prev 100): 0.71 - High Score: 4 - Epsilon: 0.18811519881078229
+ 
+Epoch: 4650 - Average Return (prev 100): -7.4 - Average Score (prev 100): 0.77 - High Score: 4 - Epsilon: 0.18743908013036178
+ 
+Epoch: 4660 - Average Return (prev 100): -7.325 - Average Score (prev 100): 0.79 - High Score: 4 - Epsilon: 0.18676539153784968
+ 
+Epoch: 4670 - Average Return (prev 100): -7.375 - Average Score (prev 100): 0.79 - High Score: 4 - Epsilon: 0.18609412429908814
+ 
+Epoch: 4680 - Average Return (prev 100): -7.4 - Average Score (prev 100): 0.79 - High Score: 4 - Epsilon: 0.18542526971131149
+ 
+Epoch: 4690 - Average Return (prev 100): -7.025 - Average Score (prev 100): 0.84 - High Score: 4 - Epsilon: 0.18475881910303327
+ 
+Epoch: 4700 - Average Return (prev 100): -7.325 - Average Score (prev 100): 0.81 - High Score: 4 - Epsilon: 0.1840947638339338
+ 
+Epoch: 4710 - Average Return (prev 100): -7.375 - Average Score (prev 100): 0.8 - High Score: 4 - Epsilon: 0.18343309529474827
+ 
+Epoch: 4720 - Average Return (prev 100): -7.45 - Average Score (prev 100): 0.77 - High Score: 4 - Epsilon: 0.18277380490715506
+ 
+Epoch: 4730 - Average Return (prev 100): -7.4 - Average Score (prev 100): 0.78 - High Score: 4 - Epsilon: 0.18211688412366453
+ 
+Epoch: 4740 - Average Return (prev 100): -7.175 - Average Score (prev 100): 0.84 - High Score: 4 - Epsilon: 0.18146232442750812
+ 
+Epoch: 4750 - Average Return (prev 100): -7.375 - Average Score (prev 100): 0.79 - High Score: 4 - Epsilon: 0.18081011733252814
+ 
+Epoch: 4760 - Average Return (prev 100): -7.3 - Average Score (prev 100): 0.8 - High Score: 4 - Epsilon: 0.18016025438306751
+ 
+Epoch: 4770 - Average Return (prev 100): -7.425 - Average Score (prev 100): 0.76 - High Score: 4 - Epsilon: 0.17951272715386035
+ 
+Epoch: 4780 - Average Return (prev 100): -7.325 - Average Score (prev 100): 0.78 - High Score: 4 - Epsilon: 0.17886752724992255
+ 
+Epoch: 4790 - Average Return (prev 100): -7.75 - Average Score (prev 100): 0.72 - High Score: 4 - Epsilon: 0.17822464630644316
+ 
+Epoch: 4800 - Average Return (prev 100): -7.7 - Average Score (prev 100): 0.73 - High Score: 4 - Epsilon: 0.17758407598867568
+ 
+Epoch: 4810 - Average Return (prev 100): -7.7 - Average Score (prev 100): 0.73 - High Score: 4 - Epsilon: 0.17694580799183016
+ 
+Epoch: 4820 - Average Return (prev 100): -7.425 - Average Score (prev 100): 0.79 - High Score: 4 - Epsilon: 0.17630983404096554
+ 
+Epoch: 4830 - Average Return (prev 100): -7.625 - Average Score (prev 100): 0.73 - High Score: 4 - Epsilon: 0.17567614589088235
+ 
+Epoch: 4840 - Average Return (prev 100): -7.825 - Average Score (prev 100): 0.68 - High Score: 4 - Epsilon: 0.17504473532601578
+ 
+Epoch: 4850 - Average Return (prev 100): -7.775 - Average Score (prev 100): 0.7 - High Score: 4 - Epsilon: 0.17441559416032917
+ 
+Epoch: 4860 - Average Return (prev 100): -7.95 - Average Score (prev 100): 0.67 - High Score: 4 - Epsilon: 0.17378871423720793
+ 
+Epoch: 4870 - Average Return (prev 100): -7.725 - Average Score (prev 100): 0.72 - High Score: 4 - Epsilon: 0.17316408742935374
+ 
+Epoch: 4880 - Average Return (prev 100): -7.875 - Average Score (prev 100): 0.69 - High Score: 4 - Epsilon: 0.1725417056386792
+ 
+Epoch: 4890 - Average Return (prev 100): -7.9 - Average Score (prev 100): 0.68 - High Score: 4 - Epsilon: 0.17192156079620285
+ 
+Epoch: 4900 - Average Return (prev 100): -7.825 - Average Score (prev 100): 0.69 - High Score: 4 - Epsilon: 0.17130364486194452
+ 
+Epoch: 4910 - Average Return (prev 100): -7.875 - Average Score (prev 100): 0.67 - High Score: 4 - Epsilon: 0.17068794982482113
+ 
+Epoch: 4920 - Average Return (prev 100): -8.075 - Average Score (prev 100): 0.64 - High Score: 4 - Epsilon: 0.17007446770254284
+ 
+Epoch: 4930 - Average Return (prev 100): -7.95 - Average Score (prev 100): 0.68 - High Score: 4 - Epsilon: 0.16946319054150955
+ 
+Epoch: 4940 - Average Return (prev 100): -7.875 - Average Score (prev 100): 0.69 - High Score: 4 - Epsilon: 0.1688541104167078
+ 
+Epoch: 4950 - Average Return (prev 100): -8.05 - Average Score (prev 100): 0.63 - High Score: 4 - Epsilon: 0.168247219431608
+ 
+Epoch: 4960 - Average Return (prev 100): -8.05 - Average Score (prev 100): 0.64 - High Score: 4 - Epsilon: 0.16764250971806202
+ 
+Epoch: 4970 - Average Return (prev 100): -8.075 - Average Score (prev 100): 0.65 - High Score: 4 - Epsilon: 0.16703997343620117
+ 
+Epoch: 4980 - Average Return (prev 100): -8.075 - Average Score (prev 100): 0.64 - High Score: 4 - Epsilon: 0.16643960277433478
+ 
+Epoch: 4990 - Average Return (prev 100): -7.975 - Average Score (prev 100): 0.66 - High Score: 4 - Epsilon: 0.16584138994884856
+ 
+Epoch: 5000 - Average Return (prev 100): -7.85 - Average Score (prev 100): 0.67 - High Score: 4 - Epsilon: 0.16524532720410404
+ 
+Epoch: 5010 - Average Return (prev 100): -7.65 - Average Score (prev 100): 0.72 - High Score: 4 - Epsilon: 0.16465140681233778
+ 
+Epoch: 5020 - Average Return (prev 100): -7.35 - Average Score (prev 100): 0.77 - High Score: 4 - Epsilon: 0.16405962107356126
+ 
+Epoch: 5030 - Average Return (prev 100): -7.275 - Average Score (prev 100): 0.79 - High Score: 4 - Epsilon: 0.16346996231546104
+ 
+Epoch: 5040 - Average Return (prev 100): -7.15 - Average Score (prev 100): 0.82 - High Score: 4 - Epsilon: 0.16288242289329938
+ 
+Epoch: 5050 - Average Return (prev 100): -6.875 - Average Score (prev 100): 0.89 - High Score: 4 - Epsilon: 0.16229699518981502
+ 
+Epoch: 5060 - Average Return (prev 100): -6.75 - Average Score (prev 100): 0.91 - High Score: 4 - Epsilon: 0.16171367161512437
+ 
+Epoch: 5070 - Average Return (prev 100): -6.625 - Average Score (prev 100): 0.93 - High Score: 4 - Epsilon: 0.16113244460662332
+ 
+Epoch: 5080 - Average Return (prev 100): -6.625 - Average Score (prev 100): 0.93 - High Score: 4 - Epsilon: 0.16055330662888903
+ 
+Epoch: 5090 - Average Return (prev 100): -6.525 - Average Score (prev 100): 0.93 - High Score: 4 - Epsilon: 0.1599762501735823
+ 
+Epoch: 5100 - Average Return (prev 100): -6.625 - Average Score (prev 100): 0.92 - High Score: 4 - Epsilon: 0.15940126775935018
+ 
+Epoch: 5110 - Average Return (prev 100): -6.65 - Average Score (prev 100): 0.92 - High Score: 4 - Epsilon: 0.15882835193172898
+ 
+Epoch: 5120 - Average Return (prev 100): -6.825 - Average Score (prev 100): 0.9 - High Score: 4 - Epsilon: 0.15825749526304772
+ 
+Epoch: 5130 - Average Return (prev 100): -6.325 - Average Score (prev 100): 0.98 - High Score: 5 - Epsilon: 0.15768869035233166
+ 
+Epoch: 5140 - Average Return (prev 100): -6.225 - Average Score (prev 100): 1.01 - High Score: 5 - Epsilon: 0.15712192982520648
+ 
+Epoch: 5150 - Average Return (prev 100): -6.175 - Average Score (prev 100): 1.04 - High Score: 5 - Epsilon: 0.15655720633380268
+ 
+Epoch: 5160 - Average Return (prev 100): -6.375 - Average Score (prev 100): 0.99 - High Score: 5 - Epsilon: 0.15599451255666028
+ 
+Epoch: 5170 - Average Return (prev 100): -6.475 - Average Score (prev 100): 0.97 - High Score: 5 - Epsilon: 0.15543384119863385
+ 
+Epoch: 5180 - Average Return (prev 100): -6.175 - Average Score (prev 100): 1.04 - High Score: 5 - Epsilon: 0.15487518499079808
+ 
+Epoch: 5190 - Average Return (prev 100): -6.125 - Average Score (prev 100): 1.08 - High Score: 5 - Epsilon: 0.15431853669035328
+ 
+Epoch: 5200 - Average Return (prev 100): -6.125 - Average Score (prev 100): 1.06 - High Score: 5 - Epsilon: 0.15376388908053176
+ 
+Epoch: 5210 - Average Return (prev 100): -6.3 - Average Score (prev 100): 1.03 - High Score: 5 - Epsilon: 0.1532112349705041
+ 
+Epoch: 5220 - Average Return (prev 100): -6.225 - Average Score (prev 100): 1.05 - High Score: 5 - Epsilon: 0.15266056719528595
+ 
+Epoch: 5230 - Average Return (prev 100): -6.725 - Average Score (prev 100): 0.97 - High Score: 5 - Epsilon: 0.15211187861564524
+ 
+Epoch: 5240 - Average Return (prev 100): -6.575 - Average Score (prev 100): 0.98 - High Score: 5 - Epsilon: 0.15156516211800944
+ 
+Epoch: 5250 - Average Return (prev 100): -6.725 - Average Score (prev 100): 0.94 - High Score: 5 - Epsilon: 0.15102041061437355
+ 
+Epoch: 5260 - Average Return (prev 100): -6.65 - Average Score (prev 100): 0.96 - High Score: 5 - Epsilon: 0.15047761704220786
+ 
+Epoch: 5270 - Average Return (prev 100): -6.7 - Average Score (prev 100): 0.96 - High Score: 5 - Epsilon: 0.14993677436436695
+ 
+Epoch: 5280 - Average Return (prev 100): -7.025 - Average Score (prev 100): 0.89 - High Score: 5 - Epsilon: 0.14939787556899792
+ 
+Epoch: 5290 - Average Return (prev 100): -7.15 - Average Score (prev 100): 0.87 - High Score: 5 - Epsilon: 0.14886091366944967
+ 
+Epoch: 5300 - Average Return (prev 100): -7.325 - Average Score (prev 100): 0.85 - High Score: 5 - Epsilon: 0.14832588170418237
+ 
+Epoch: 5310 - Average Return (prev 100): -7.075 - Average Score (prev 100): 0.9 - High Score: 5 - Epsilon: 0.14779277273667724
+ 
+Epoch: 5320 - Average Return (prev 100): -7.25 - Average Score (prev 100): 0.86 - High Score: 5 - Epsilon: 0.14726157985534646
+ 
+Epoch: 5330 - Average Return (prev 100): -7.0 - Average Score (prev 100): 0.92 - High Score: 5 - Epsilon: 0.1467322961734438
+ 
+Epoch: 5340 - Average Return (prev 100): -7.075 - Average Score (prev 100): 0.93 - High Score: 5 - Epsilon: 0.1462049148289749
+ 
+Epoch: 5350 - Average Return (prev 100): -6.825 - Average Score (prev 100): 0.97 - High Score: 5 - Epsilon: 0.14567942898460895
+ 
+Epoch: 5360 - Average Return (prev 100): -6.75 - Average Score (prev 100): 0.99 - High Score: 5 - Epsilon: 0.14515583182758945
+ 
+Epoch: 5370 - Average Return (prev 100): -6.35 - Average Score (prev 100): 1.05 - High Score: 5 - Epsilon: 0.1446341165696462
+ 
+Epoch: 5380 - Average Return (prev 100): -6.05 - Average Score (prev 100): 1.12 - High Score: 5 - Epsilon: 0.1441142764469073
+ 
+Epoch: 5390 - Average Return (prev 100): -6.05 - Average Score (prev 100): 1.12 - High Score: 5 - Epsilon: 0.14359630471981122
+ 
+Epoch: 5400 - Average Return (prev 100): -6.025 - Average Score (prev 100): 1.14 - High Score: 5 - Epsilon: 0.14308019467301972
+ 
+Epoch: 5410 - Average Return (prev 100): -6.225 - Average Score (prev 100): 1.08 - High Score: 5 - Epsilon: 0.14256593961533068
+ 
+Epoch: 5420 - Average Return (prev 100): -5.85 - Average Score (prev 100): 1.15 - High Score: 5 - Epsilon: 0.14205353287959113
+ 
+Epoch: 5430 - Average Return (prev 100): -5.95 - Average Score (prev 100): 1.12 - High Score: 5 - Epsilon: 0.1415429678226112
+ 
+Epoch: 5440 - Average Return (prev 100): -5.725 - Average Score (prev 100): 1.11 - High Score: 5 - Epsilon: 0.14103423782507768
+ 
+Epoch: 5450 - Average Return (prev 100): -5.825 - Average Score (prev 100): 1.1 - High Score: 5 - Epsilon: 0.14052733629146838
+ 
+Epoch: 5460 - Average Return (prev 100): -5.675 - Average Score (prev 100): 1.12 - High Score: 5 - Epsilon: 0.14002225664996656
+ 
+Epoch: 5470 - Average Return (prev 100): -6.075 - Average Score (prev 100): 1.06 - High Score: 5 - Epsilon: 0.13951899235237564
+ 
+Epoch: 5480 - Average Return (prev 100): -6.1 - Average Score (prev 100): 1.06 - High Score: 5 - Epsilon: 0.13901753687403456
+ 
+Epoch: 5490 - Average Return (prev 100): -5.7 - Average Score (prev 100): 1.13 - High Score: 5 - Epsilon: 0.1385178837137329
+ 
+Epoch: 5500 - Average Return (prev 100): -5.475 - Average Score (prev 100): 1.17 - High Score: 5 - Epsilon: 0.1380200263936268
+ 
+Epoch: 5510 - Average Return (prev 100): -5.35 - Average Score (prev 100): 1.21 - High Score: 5 - Epsilon: 0.13752395845915474
+ 
+Epoch: 5520 - Average Return (prev 100): -5.85 - Average Score (prev 100): 1.1 - High Score: 5 - Epsilon: 0.13702967347895417
+ 
+Epoch: 5530 - Average Return (prev 100): -5.8 - Average Score (prev 100): 1.11 - High Score: 5 - Epsilon: 0.13653716504477803
+ 
+Epoch: 5540 - Average Return (prev 100): -6.3 - Average Score (prev 100): 1.06 - High Score: 5 - Epsilon: 0.13604642677141135
+ 
+Epoch: 5550 - Average Return (prev 100): -6.0 - Average Score (prev 100): 1.11 - High Score: 5 - Epsilon: 0.13555745229658894
+ 
+Epoch: 5560 - Average Return (prev 100): -5.875 - Average Score (prev 100): 1.13 - High Score: 5 - Epsilon: 0.13507023528091272
+ 
+Epoch: 5570 - Average Return (prev 100): -5.35 - Average Score (prev 100): 1.21 - High Score: 5 - Epsilon: 0.13458476940776937
+ 
+Epoch: 5580 - Average Return (prev 100): -5.35 - Average Score (prev 100): 1.2 - High Score: 5 - Epsilon: 0.1341010483832486
+ 
+Epoch: 5590 - Average Return (prev 100): -5.125 - Average Score (prev 100): 1.23 - High Score: 5 - Epsilon: 0.13361906593606163
+ 
+Epoch: 5600 - Average Return (prev 100): -5.225 - Average Score (prev 100): 1.21 - High Score: 5 - Epsilon: 0.13313881581745968
+ 
+Epoch: 5610 - Average Return (prev 100): -5.025 - Average Score (prev 100): 1.24 - High Score: 5 - Epsilon: 0.13266029180115307
+ 
+Epoch: 5620 - Average Return (prev 100): -4.75 - Average Score (prev 100): 1.3 - High Score: 5 - Epsilon: 0.1321834876832306
+ 
+Epoch: 5630 - Average Return (prev 100): -4.1 - Average Score (prev 100): 1.4 - High Score: 5 - Epsilon: 0.13170839728207878
+ 
+Epoch: 5640 - Average Return (prev 100): -3.75 - Average Score (prev 100): 1.46 - High Score: 5 - Epsilon: 0.13123501443830213
+ 
+Epoch: 5650 - Average Return (prev 100): -3.65 - Average Score (prev 100): 1.48 - High Score: 5 - Epsilon: 0.13076333301464305
+ 
+Epoch: 5660 - Average Return (prev 100): -3.75 - Average Score (prev 100): 1.47 - High Score: 5 - Epsilon: 0.13029334689590216
+ 
+Epoch: 5670 - Average Return (prev 100): -3.85 - Average Score (prev 100): 1.45 - High Score: 5 - Epsilon: 0.12982504998885938
+ 
+Epoch: 5680 - Average Return (prev 100): -3.875 - Average Score (prev 100): 1.45 - High Score: 5 - Epsilon: 0.12935843622219464
+ 
+Epoch: 5690 - Average Return (prev 100): -4.375 - Average Score (prev 100): 1.36 - High Score: 5 - Epsilon: 0.12889349954640913
+ 
+Epoch: 5700 - Average Return (prev 100): -3.85 - Average Score (prev 100): 1.45 - High Score: 5 - Epsilon: 0.12843023393374722
+ 
+Epoch: 5710 - Average Return (prev 100): -3.625 - Average Score (prev 100): 1.45 - High Score: 6 - Epsilon: 0.12796863337811787
+ 
+Epoch: 5720 - Average Return (prev 100): -3.8 - Average Score (prev 100): 1.42 - High Score: 6 - Epsilon: 0.1275086918950171
+ 
+Epoch: 5730 - Average Return (prev 100): -4.75 - Average Score (prev 100): 1.25 - High Score: 6 - Epsilon: 0.1270504035214502
+ 
+Epoch: 5740 - Average Return (prev 100): -4.575 - Average Score (prev 100): 1.27 - High Score: 6 - Epsilon: 0.1265937623158546
+ 
+Epoch: 5750 - Average Return (prev 100): -3.975 - Average Score (prev 100): 1.32 - High Score: 7 - Epsilon: 0.12613876235802263
+ 
+Epoch: 5760 - Average Return (prev 100): -3.375 - Average Score (prev 100): 1.36 - High Score: 7 - Epsilon: 0.12568539774902485
+ 
+Epoch: 5770 - Average Return (prev 100): -3.4 - Average Score (prev 100): 1.35 - High Score: 7 - Epsilon: 0.12523366261113378
+ 
+Epoch: 5780 - Average Return (prev 100): -2.925 - Average Score (prev 100): 1.42 - High Score: 7 - Epsilon: 0.12478355108774732
+ 
+Epoch: 5790 - Average Return (prev 100): -2.7 - Average Score (prev 100): 1.45 - High Score: 7 - Epsilon: 0.12433505734331311
+ 
+Epoch: 5800 - Average Return (prev 100): -2.85 - Average Score (prev 100): 1.43 - High Score: 7 - Epsilon: 0.12388817556325275
+ 
+Epoch: 5810 - Average Return (prev 100): -3.05 - Average Score (prev 100): 1.43 - High Score: 7 - Epsilon: 0.12344289995388648
+ 
+Epoch: 5820 - Average Return (prev 100): -3.025 - Average Score (prev 100): 1.44 - High Score: 7 - Epsilon: 0.12299922474235798
+ 
+Epoch: 5830 - Average Return (prev 100): -2.5 - Average Score (prev 100): 1.55 - High Score: 7 - Epsilon: 0.1225571441765596
+ 
+Epoch: 5840 - Average Return (prev 100): -2.65 - Average Score (prev 100): 1.52 - High Score: 7 - Epsilon: 0.12211665252505775
+ 
+Epoch: 5850 - Average Return (prev 100): -3.65 - Average Score (prev 100): 1.39 - High Score: 7 - Epsilon: 0.12167774407701865
+ 
+Epoch: 5860 - Average Return (prev 100): -3.975 - Average Score (prev 100): 1.39 - High Score: 7 - Epsilon: 0.12124041314213417
+ 
+Epoch: 5870 - Average Return (prev 100): -4.0 - Average Score (prev 100): 1.39 - High Score: 7 - Epsilon: 0.12080465405054824
+ 
+Epoch: 5880 - Average Return (prev 100): -3.725 - Average Score (prev 100): 1.42 - High Score: 7 - Epsilon: 0.12037046115278315
+ 
+Epoch: 5890 - Average Return (prev 100): -4.025 - Average Score (prev 100): 1.38 - High Score: 7 - Epsilon: 0.11993782881966644
+ 
+Epoch: 5900 - Average Return (prev 100): -4.15 - Average Score (prev 100): 1.36 - High Score: 7 - Epsilon: 0.11950675144225784
+ 
+Epoch: 5910 - Average Return (prev 100): -4.15 - Average Score (prev 100): 1.36 - High Score: 7 - Epsilon: 0.11907722343177657
+ 
+Epoch: 5920 - Average Return (prev 100): -3.075 - Average Score (prev 100): 1.53 - High Score: 7 - Epsilon: 0.11864923921952898
+ 
+Epoch: 5930 - Average Return (prev 100): -3.2 - Average Score (prev 100): 1.5 - High Score: 7 - Epsilon: 0.11822279325683623
+ 
+Epoch: 5940 - Average Return (prev 100): -3.375 - Average Score (prev 100): 1.48 - High Score: 7 - Epsilon: 0.11779788001496237
+ 
+Epoch: 5950 - Average Return (prev 100): -2.9 - Average Score (prev 100): 1.56 - High Score: 7 - Epsilon: 0.11737449398504267
+ 
+Epoch: 5960 - Average Return (prev 100): -3.175 - Average Score (prev 100): 1.51 - High Score: 7 - Epsilon: 0.11695262967801227
+ 
+Epoch: 5970 - Average Return (prev 100): -2.175 - Average Score (prev 100): 1.64 - High Score: 7 - Epsilon: 0.11653228162453498
+ 
+Epoch: 5980 - Average Return (prev 100): -2.6 - Average Score (prev 100): 1.57 - High Score: 7 - Epsilon: 0.11611344437493232
+ 
+Epoch: 5990 - Average Return (prev 100): -1.6 - Average Score (prev 100): 1.71 - High Score: 7 - Epsilon: 0.11569611249911284
+ 
+Epoch: 6000 - Average Return (prev 100): -1.45 - Average Score (prev 100): 1.73 - High Score: 7 - Epsilon: 0.11528028058650186
+ 
+Epoch: 6010 - Average Return (prev 100): -1.45 - Average Score (prev 100): 1.75 - High Score: 7 - Epsilon: 0.11486594324597123
+ 
+Epoch: 6020 - Average Return (prev 100): -2.025 - Average Score (prev 100): 1.68 - High Score: 7 - Epsilon: 0.11445309510576945
+ 
+Epoch: 6030 - Average Return (prev 100): -2.0 - Average Score (prev 100): 1.71 - High Score: 7 - Epsilon: 0.114041730813452
+ 
+Epoch: 6040 - Average Return (prev 100): -2.0 - Average Score (prev 100): 1.71 - High Score: 7 - Epsilon: 0.11363184503581199
+ 
+Epoch: 6050 - Average Return (prev 100): -2.1 - Average Score (prev 100): 1.7 - High Score: 7 - Epsilon: 0.11322343245881104
+ 
+Epoch: 6060 - Average Return (prev 100): -1.725 - Average Score (prev 100): 1.76 - High Score: 7 - Epsilon: 0.11281648778751027
+ 
+Epoch: 6070 - Average Return (prev 100): -2.55 - Average Score (prev 100): 1.68 - High Score: 7 - Epsilon: 0.11241100574600182
+ 
+Epoch: 6080 - Average Return (prev 100): -2.375 - Average Score (prev 100): 1.72 - High Score: 7 - Epsilon: 0.11200698107734029
+ 
+Epoch: 6090 - Average Return (prev 100): -3.025 - Average Score (prev 100): 1.64 - High Score: 7 - Epsilon: 0.11160440854347466
+ 
+Epoch: 6100 - Average Return (prev 100): -3.025 - Average Score (prev 100): 1.62 - High Score: 7 - Epsilon: 0.11120328292518039
+ 
+Epoch: 6110 - Average Return (prev 100): -3.1 - Average Score (prev 100): 1.6 - High Score: 7 - Epsilon: 0.11080359902199174
+ 
+Epoch: 6120 - Average Return (prev 100): -2.825 - Average Score (prev 100): 1.63 - High Score: 7 - Epsilon: 0.11040535165213437
+ 
+Epoch: 6130 - Average Return (prev 100): -2.925 - Average Score (prev 100): 1.59 - High Score: 7 - Epsilon: 0.1100085356524581
+ 
+Epoch: 6140 - Average Return (prev 100): -2.7 - Average Score (prev 100): 1.62 - High Score: 7 - Epsilon: 0.10961314587837
+ 
+Epoch: 6150 - Average Return (prev 100): -2.125 - Average Score (prev 100): 1.68 - High Score: 7 - Epsilon: 0.10921917720376774
+ 
+Epoch: 6160 - Average Return (prev 100): -2.425 - Average Score (prev 100): 1.65 - High Score: 7 - Epsilon: 0.1088266245209731
+ 
+Epoch: 6170 - Average Return (prev 100): -2.25 - Average Score (prev 100): 1.67 - High Score: 7 - Epsilon: 0.10843548274066568
+ 
+Epoch: 6180 - Average Return (prev 100): -2.5 - Average Score (prev 100): 1.63 - High Score: 7 - Epsilon: 0.10804574679181701
+ 
+Epoch: 6190 - Average Return (prev 100): -2.15 - Average Score (prev 100): 1.67 - High Score: 7 - Epsilon: 0.10765741162162479
+ 
+Epoch: 6200 - Average Return (prev 100): -2.275 - Average Score (prev 100): 1.66 - High Score: 7 - Epsilon: 0.10727047219544734
+ 
+Epoch: 6210 - Average Return (prev 100): -2.325 - Average Score (prev 100): 1.65 - High Score: 7 - Epsilon: 0.10688492349673841
+ 
+Epoch: 6220 - Average Return (prev 100): -1.85 - Average Score (prev 100): 1.69 - High Score: 7 - Epsilon: 0.10650076052698204
+ 
+Epoch: 6230 - Average Return (prev 100): -1.65 - Average Score (prev 100): 1.72 - High Score: 7 - Epsilon: 0.1061179783056278
+ 
+Epoch: 6240 - Average Return (prev 100): -1.875 - Average Score (prev 100): 1.7 - High Score: 7 - Epsilon: 0.10573657187002629
+ 
+Epoch: 6250 - Average Return (prev 100): -2.575 - Average Score (prev 100): 1.62 - High Score: 7 - Epsilon: 0.10535653627536465
+ 
+Epoch: 6260 - Average Return (prev 100): -1.2 - Average Score (prev 100): 1.74 - High Score: 9 - Epsilon: 0.10497786659460256
+ 
+Epoch: 6270 - Average Return (prev 100): -1.6 - Average Score (prev 100): 1.68 - High Score: 9 - Epsilon: 0.10460055791840837
+ 
+Epoch: 6280 - Average Return (prev 100): -1.35 - Average Score (prev 100): 1.7 - High Score: 9 - Epsilon: 0.1042246053550954
+ 
+Epoch: 6290 - Average Return (prev 100): -1.525 - Average Score (prev 100): 1.69 - High Score: 9 - Epsilon: 0.10385000403055854
+ 
+Epoch: 6300 - Average Return (prev 100): -1.25 - Average Score (prev 100): 1.74 - High Score: 9 - Epsilon: 0.10347674908821107
+ 
+Epoch: 6310 - Average Return (prev 100): -1.125 - Average Score (prev 100): 1.75 - High Score: 9 - Epsilon: 0.10310483568892165
+ 
+Epoch: 6320 - Average Return (prev 100): -2.3 - Average Score (prev 100): 1.58 - High Score: 9 - Epsilon: 0.10273425901095164
+ 
+Epoch: 6330 - Average Return (prev 100): -2.175 - Average Score (prev 100): 1.62 - High Score: 9 - Epsilon: 0.10236501424989258
+ 
+Epoch: 6340 - Average Return (prev 100): -1.75 - Average Score (prev 100): 1.7 - High Score: 9 - Epsilon: 0.10199709661860389
+ 
+Epoch: 6350 - Average Return (prev 100): -1.775 - Average Score (prev 100): 1.71 - High Score: 9 - Epsilon: 0.1016305013471508
+ 
+Epoch: 6360 - Average Return (prev 100): -2.875 - Average Score (prev 100): 1.63 - High Score: 9 - Epsilon: 0.10126522368274248
+ 
+Epoch: 6370 - Average Return (prev 100): -2.8 - Average Score (prev 100): 1.63 - High Score: 9 - Epsilon: 0.1009012588896705
+ 
+Epoch: 6380 - Average Return (prev 100): -2.75 - Average Score (prev 100): 1.67 - High Score: 9 - Epsilon: 0.10053860224924735
+ 
+Epoch: 6390 - Average Return (prev 100): -2.15 - Average Score (prev 100): 1.72 - High Score: 9 - Epsilon: 0.10017724905974534
+ 
+Epoch: 6400 - Average Return (prev 100): -1.5 - Average Score (prev 100): 1.78 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6410 - Average Return (prev 100): -0.875 - Average Score (prev 100): 1.88 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6420 - Average Return (prev 100): -0.05 - Average Score (prev 100): 2.01 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6430 - Average Return (prev 100): -0.45 - Average Score (prev 100): 1.93 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6440 - Average Return (prev 100): -0.375 - Average Score (prev 100): 1.93 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6450 - Average Return (prev 100): 0.45 - Average Score (prev 100): 2.01 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6460 - Average Return (prev 100): 0.775 - Average Score (prev 100): 2.06 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6470 - Average Return (prev 100): 1.375 - Average Score (prev 100): 2.15 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6480 - Average Return (prev 100): 1.025 - Average Score (prev 100): 2.1 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6490 - Average Return (prev 100): 0.475 - Average Score (prev 100): 2.07 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6500 - Average Return (prev 100): 0.0 - Average Score (prev 100): 2.05 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6510 - Average Return (prev 100): -0.075 - Average Score (prev 100): 2.02 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6520 - Average Return (prev 100): 0.0 - Average Score (prev 100): 2.02 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6530 - Average Return (prev 100): 0.825 - Average Score (prev 100): 2.15 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6540 - Average Return (prev 100): 0.475 - Average Score (prev 100): 2.1 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6550 - Average Return (prev 100): -0.025 - Average Score (prev 100): 2.05 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6560 - Average Return (prev 100): -0.275 - Average Score (prev 100): 2.02 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6570 - Average Return (prev 100): -0.6 - Average Score (prev 100): 1.96 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6580 - Average Return (prev 100): -0.1 - Average Score (prev 100): 2.0 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6590 - Average Return (prev 100): 0.375 - Average Score (prev 100): 2.05 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6600 - Average Return (prev 100): -0.175 - Average Score (prev 100): 1.95 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6610 - Average Return (prev 100): -0.6 - Average Score (prev 100): 1.91 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6620 - Average Return (prev 100): -0.8 - Average Score (prev 100): 1.89 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6630 - Average Return (prev 100): -1.225 - Average Score (prev 100): 1.8 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6640 - Average Return (prev 100): 0.15 - Average Score (prev 100): 1.93 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6650 - Average Return (prev 100): 0.95 - Average Score (prev 100): 2.02 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6660 - Average Return (prev 100): 0.9 - Average Score (prev 100): 2.01 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6670 - Average Return (prev 100): 1.325 - Average Score (prev 100): 2.09 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6680 - Average Return (prev 100): 1.225 - Average Score (prev 100): 2.1 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6690 - Average Return (prev 100): 1.375 - Average Score (prev 100): 2.08 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6700 - Average Return (prev 100): 2.125 - Average Score (prev 100): 2.18 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6710 - Average Return (prev 100): 2.55 - Average Score (prev 100): 2.22 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6720 - Average Return (prev 100): 2.35 - Average Score (prev 100): 2.2 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6730 - Average Return (prev 100): 2.975 - Average Score (prev 100): 2.27 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6740 - Average Return (prev 100): 1.825 - Average Score (prev 100): 2.15 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6750 - Average Return (prev 100): 1.325 - Average Score (prev 100): 2.11 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6760 - Average Return (prev 100): 1.4 - Average Score (prev 100): 2.11 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6770 - Average Return (prev 100): 1.275 - Average Score (prev 100): 2.08 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6780 - Average Return (prev 100): 1.725 - Average Score (prev 100): 2.12 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6790 - Average Return (prev 100): 1.025 - Average Score (prev 100): 2.07 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6800 - Average Return (prev 100): 1.375 - Average Score (prev 100): 2.1 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6810 - Average Return (prev 100): 1.5 - Average Score (prev 100): 2.12 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6820 - Average Return (prev 100): 1.925 - Average Score (prev 100): 2.18 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6830 - Average Return (prev 100): 0.75 - Average Score (prev 100): 2.05 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6840 - Average Return (prev 100): 1.275 - Average Score (prev 100): 2.09 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6850 - Average Return (prev 100): 1.475 - Average Score (prev 100): 2.11 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6860 - Average Return (prev 100): 2.425 - Average Score (prev 100): 2.19 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6870 - Average Return (prev 100): 2.1 - Average Score (prev 100): 2.13 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6880 - Average Return (prev 100): 3.3 - Average Score (prev 100): 2.25 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6890 - Average Return (prev 100): 2.8 - Average Score (prev 100): 2.17 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6900 - Average Return (prev 100): 1.9 - Average Score (prev 100): 2.08 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6910 - Average Return (prev 100): 1.3 - Average Score (prev 100): 2.01 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6920 - Average Return (prev 100): 1.375 - Average Score (prev 100): 2.02 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6930 - Average Return (prev 100): 2.825 - Average Score (prev 100): 2.2 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6940 - Average Return (prev 100): 2.675 - Average Score (prev 100): 2.22 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6950 - Average Return (prev 100): 2.1 - Average Score (prev 100): 2.14 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6960 - Average Return (prev 100): 1.575 - Average Score (prev 100): 2.06 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6970 - Average Return (prev 100): 1.75 - Average Score (prev 100): 2.09 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6980 - Average Return (prev 100): 0.25 - Average Score (prev 100): 1.93 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 6990 - Average Return (prev 100): 0.65 - Average Score (prev 100): 1.98 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7000 - Average Return (prev 100): 1.3 - Average Score (prev 100): 2.03 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7010 - Average Return (prev 100): 1.425 - Average Score (prev 100): 2.04 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7020 - Average Return (prev 100): 2.775 - Average Score (prev 100): 2.16 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7030 - Average Return (prev 100): 2.575 - Average Score (prev 100): 2.15 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7040 - Average Return (prev 100): 2.525 - Average Score (prev 100): 2.14 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7050 - Average Return (prev 100): 3.325 - Average Score (prev 100): 2.24 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7060 - Average Return (prev 100): 3.05 - Average Score (prev 100): 2.27 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7070 - Average Return (prev 100): 2.475 - Average Score (prev 100): 2.22 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7080 - Average Return (prev 100): 3.275 - Average Score (prev 100): 2.3 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7090 - Average Return (prev 100): 3.875 - Average Score (prev 100): 2.37 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7100 - Average Return (prev 100): 3.675 - Average Score (prev 100): 2.37 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7110 - Average Return (prev 100): 4.475 - Average Score (prev 100): 2.46 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7120 - Average Return (prev 100): 2.675 - Average Score (prev 100): 2.27 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7130 - Average Return (prev 100): 1.85 - Average Score (prev 100): 2.18 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7140 - Average Return (prev 100): 2.175 - Average Score (prev 100): 2.22 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7150 - Average Return (prev 100): 1.25 - Average Score (prev 100): 2.11 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7160 - Average Return (prev 100): 2.1 - Average Score (prev 100): 2.18 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7170 - Average Return (prev 100): 3.025 - Average Score (prev 100): 2.31 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7180 - Average Return (prev 100): 2.775 - Average Score (prev 100): 2.3 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7190 - Average Return (prev 100): 2.775 - Average Score (prev 100): 2.32 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7200 - Average Return (prev 100): 3.225 - Average Score (prev 100): 2.39 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7210 - Average Return (prev 100): 3.45 - Average Score (prev 100): 2.44 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7220 - Average Return (prev 100): 3.625 - Average Score (prev 100): 2.48 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7230 - Average Return (prev 100): 4.725 - Average Score (prev 100): 2.59 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7240 - Average Return (prev 100): 4.725 - Average Score (prev 100): 2.58 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7250 - Average Return (prev 100): 5.275 - Average Score (prev 100): 2.65 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7260 - Average Return (prev 100): 4.4 - Average Score (prev 100): 2.56 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7270 - Average Return (prev 100): 4.0 - Average Score (prev 100): 2.49 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7280 - Average Return (prev 100): 3.9 - Average Score (prev 100): 2.49 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7290 - Average Return (prev 100): 4.45 - Average Score (prev 100): 2.54 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7300 - Average Return (prev 100): 4.8 - Average Score (prev 100): 2.55 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7310 - Average Return (prev 100): 4.0 - Average Score (prev 100): 2.47 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7320 - Average Return (prev 100): 5.675 - Average Score (prev 100): 2.63 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7330 - Average Return (prev 100): 5.475 - Average Score (prev 100): 2.61 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7340 - Average Return (prev 100): 5.15 - Average Score (prev 100): 2.59 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7350 - Average Return (prev 100): 5.425 - Average Score (prev 100): 2.6 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7360 - Average Return (prev 100): 5.6 - Average Score (prev 100): 2.6 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7370 - Average Return (prev 100): 5.875 - Average Score (prev 100): 2.64 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7380 - Average Return (prev 100): 6.2 - Average Score (prev 100): 2.68 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7390 - Average Return (prev 100): 5.975 - Average Score (prev 100): 2.65 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7400 - Average Return (prev 100): 5.4 - Average Score (prev 100): 2.58 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7410 - Average Return (prev 100): 6.325 - Average Score (prev 100): 2.67 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7420 - Average Return (prev 100): 4.975 - Average Score (prev 100): 2.54 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7430 - Average Return (prev 100): 5.025 - Average Score (prev 100): 2.57 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7440 - Average Return (prev 100): 5.225 - Average Score (prev 100): 2.59 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7450 - Average Return (prev 100): 5.75 - Average Score (prev 100): 2.63 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7460 - Average Return (prev 100): 7.825 - Average Score (prev 100): 2.84 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7470 - Average Return (prev 100): 8.525 - Average Score (prev 100): 2.9 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7480 - Average Return (prev 100): 7.625 - Average Score (prev 100): 2.78 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7490 - Average Return (prev 100): 7.075 - Average Score (prev 100): 2.73 - High Score: 9 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7500 - Average Return (prev 100): 9.175 - Average Score (prev 100): 2.88 - High Score: 10 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7510 - Average Return (prev 100): 8.225 - Average Score (prev 100): 2.77 - High Score: 10 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7520 - Average Return (prev 100): 9.2 - Average Score (prev 100): 2.86 - High Score: 10 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7530 - Average Return (prev 100): 9.55 - Average Score (prev 100): 2.86 - High Score: 10 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7540 - Average Return (prev 100): 10.775 - Average Score (prev 100): 2.98 - High Score: 10 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7550 - Average Return (prev 100): 10.725 - Average Score (prev 100): 2.98 - High Score: 10 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7560 - Average Return (prev 100): 10.025 - Average Score (prev 100): 2.93 - High Score: 10 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7570 - Average Return (prev 100): 10.425 - Average Score (prev 100): 2.97 - High Score: 10 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7580 - Average Return (prev 100): 11.875 - Average Score (prev 100): 3.08 - High Score: 10 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7590 - Average Return (prev 100): 11.65 - Average Score (prev 100): 3.06 - High Score: 10 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7600 - Average Return (prev 100): 10.25 - Average Score (prev 100): 3.01 - High Score: 10 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7610 - Average Return (prev 100): 10.35 - Average Score (prev 100): 3.02 - High Score: 10 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7620 - Average Return (prev 100): 9.475 - Average Score (prev 100): 2.94 - High Score: 10 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7630 - Average Return (prev 100): 8.625 - Average Score (prev 100): 2.85 - High Score: 10 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7640 - Average Return (prev 100): 9.1 - Average Score (prev 100): 2.85 - High Score: 10 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7650 - Average Return (prev 100): 10.4 - Average Score (prev 100): 2.93 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7660 - Average Return (prev 100): 9.975 - Average Score (prev 100): 2.91 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7670 - Average Return (prev 100): 9.475 - Average Score (prev 100): 2.85 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7680 - Average Return (prev 100): 9.25 - Average Score (prev 100): 2.86 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7690 - Average Return (prev 100): 9.125 - Average Score (prev 100): 2.83 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7700 - Average Return (prev 100): 9.575 - Average Score (prev 100): 2.88 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7710 - Average Return (prev 100): 10.475 - Average Score (prev 100): 2.98 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7720 - Average Return (prev 100): 10.65 - Average Score (prev 100): 3.0 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7730 - Average Return (prev 100): 12.3 - Average Score (prev 100): 3.19 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7740 - Average Return (prev 100): 11.05 - Average Score (prev 100): 3.1 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7750 - Average Return (prev 100): 10.875 - Average Score (prev 100): 3.11 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7760 - Average Return (prev 100): 10.925 - Average Score (prev 100): 3.08 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7770 - Average Return (prev 100): 11.45 - Average Score (prev 100): 3.12 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7780 - Average Return (prev 100): 11.05 - Average Score (prev 100): 3.1 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7790 - Average Return (prev 100): 12.05 - Average Score (prev 100): 3.22 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7800 - Average Return (prev 100): 12.325 - Average Score (prev 100): 3.23 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7810 - Average Return (prev 100): 12.225 - Average Score (prev 100): 3.2 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7820 - Average Return (prev 100): 14.175 - Average Score (prev 100): 3.36 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7830 - Average Return (prev 100): 15.85 - Average Score (prev 100): 3.44 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7840 - Average Return (prev 100): 17.025 - Average Score (prev 100): 3.52 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7850 - Average Return (prev 100): 15.25 - Average Score (prev 100): 3.38 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7860 - Average Return (prev 100): 14.125 - Average Score (prev 100): 3.28 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7870 - Average Return (prev 100): 14.5 - Average Score (prev 100): 3.33 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7880 - Average Return (prev 100): 15.3 - Average Score (prev 100): 3.39 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7890 - Average Return (prev 100): 15.275 - Average Score (prev 100): 3.37 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7900 - Average Return (prev 100): 15.225 - Average Score (prev 100): 3.37 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7910 - Average Return (prev 100): 15.4 - Average Score (prev 100): 3.38 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7920 - Average Return (prev 100): 14.175 - Average Score (prev 100): 3.27 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7930 - Average Return (prev 100): 11.975 - Average Score (prev 100): 3.11 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7940 - Average Return (prev 100): 10.9 - Average Score (prev 100): 3.05 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7950 - Average Return (prev 100): 12.65 - Average Score (prev 100): 3.22 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7960 - Average Return (prev 100): 14.1 - Average Score (prev 100): 3.34 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7970 - Average Return (prev 100): 14.825 - Average Score (prev 100): 3.41 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7980 - Average Return (prev 100): 14.45 - Average Score (prev 100): 3.37 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 7990 - Average Return (prev 100): 14.2 - Average Score (prev 100): 3.37 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8000 - Average Return (prev 100): 14.0 - Average Score (prev 100): 3.32 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8010 - Average Return (prev 100): 13.85 - Average Score (prev 100): 3.34 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8020 - Average Return (prev 100): 14.2 - Average Score (prev 100): 3.39 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8030 - Average Return (prev 100): 13.65 - Average Score (prev 100): 3.35 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8040 - Average Return (prev 100): 14.975 - Average Score (prev 100): 3.47 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8050 - Average Return (prev 100): 13.2 - Average Score (prev 100): 3.31 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8060 - Average Return (prev 100): 13.325 - Average Score (prev 100): 3.35 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8070 - Average Return (prev 100): 11.775 - Average Score (prev 100): 3.21 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8080 - Average Return (prev 100): 11.35 - Average Score (prev 100): 3.2 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8090 - Average Return (prev 100): 12.0 - Average Score (prev 100): 3.19 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8100 - Average Return (prev 100): 13.75 - Average Score (prev 100): 3.31 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8110 - Average Return (prev 100): 14.075 - Average Score (prev 100): 3.32 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8120 - Average Return (prev 100): 13.3 - Average Score (prev 100): 3.26 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8130 - Average Return (prev 100): 15.125 - Average Score (prev 100): 3.42 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8140 - Average Return (prev 100): 13.625 - Average Score (prev 100): 3.29 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8150 - Average Return (prev 100): 14.5 - Average Score (prev 100): 3.36 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8160 - Average Return (prev 100): 14.9 - Average Score (prev 100): 3.4 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8170 - Average Return (prev 100): 15.125 - Average Score (prev 100): 3.43 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8180 - Average Return (prev 100): 16.825 - Average Score (prev 100): 3.58 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8190 - Average Return (prev 100): 18.05 - Average Score (prev 100): 3.73 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8200 - Average Return (prev 100): 15.925 - Average Score (prev 100): 3.62 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8210 - Average Return (prev 100): 17.125 - Average Score (prev 100): 3.69 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8220 - Average Return (prev 100): 16.875 - Average Score (prev 100): 3.64 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8230 - Average Return (prev 100): 17.875 - Average Score (prev 100): 3.7 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8240 - Average Return (prev 100): 19.475 - Average Score (prev 100): 3.82 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8250 - Average Return (prev 100): 19.475 - Average Score (prev 100): 3.85 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8260 - Average Return (prev 100): 17.325 - Average Score (prev 100): 3.64 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8270 - Average Return (prev 100): 18.65 - Average Score (prev 100): 3.73 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8280 - Average Return (prev 100): 18.0 - Average Score (prev 100): 3.67 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8290 - Average Return (prev 100): 16.4 - Average Score (prev 100): 3.53 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8300 - Average Return (prev 100): 16.325 - Average Score (prev 100): 3.48 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8310 - Average Return (prev 100): 18.125 - Average Score (prev 100): 3.62 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8320 - Average Return (prev 100): 19.225 - Average Score (prev 100): 3.74 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8330 - Average Return (prev 100): 16.675 - Average Score (prev 100): 3.57 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8340 - Average Return (prev 100): 15.4 - Average Score (prev 100): 3.47 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8350 - Average Return (prev 100): 16.375 - Average Score (prev 100): 3.55 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8360 - Average Return (prev 100): 17.65 - Average Score (prev 100): 3.69 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8370 - Average Return (prev 100): 16.075 - Average Score (prev 100): 3.56 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8380 - Average Return (prev 100): 16.025 - Average Score (prev 100): 3.54 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8390 - Average Return (prev 100): 16.925 - Average Score (prev 100): 3.61 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8400 - Average Return (prev 100): 18.0 - Average Score (prev 100): 3.72 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8410 - Average Return (prev 100): 15.5 - Average Score (prev 100): 3.55 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8420 - Average Return (prev 100): 15.1 - Average Score (prev 100): 3.5 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8430 - Average Return (prev 100): 14.625 - Average Score (prev 100): 3.43 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8440 - Average Return (prev 100): 16.675 - Average Score (prev 100): 3.57 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8450 - Average Return (prev 100): 17.625 - Average Score (prev 100): 3.6 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8460 - Average Return (prev 100): 18.725 - Average Score (prev 100): 3.66 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8470 - Average Return (prev 100): 18.275 - Average Score (prev 100): 3.63 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8480 - Average Return (prev 100): 19.025 - Average Score (prev 100): 3.7 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8490 - Average Return (prev 100): 17.8 - Average Score (prev 100): 3.63 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8500 - Average Return (prev 100): 18.975 - Average Score (prev 100): 3.72 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8510 - Average Return (prev 100): 19.975 - Average Score (prev 100): 3.78 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8520 - Average Return (prev 100): 20.925 - Average Score (prev 100): 3.85 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8530 - Average Return (prev 100): 22.825 - Average Score (prev 100): 3.98 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8540 - Average Return (prev 100): 21.55 - Average Score (prev 100): 3.93 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8550 - Average Return (prev 100): 20.85 - Average Score (prev 100): 3.91 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8560 - Average Return (prev 100): 19.925 - Average Score (prev 100): 3.82 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8570 - Average Return (prev 100): 22.5 - Average Score (prev 100): 4.02 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8580 - Average Return (prev 100): 22.05 - Average Score (prev 100): 3.99 - High Score: 11 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8590 - Average Return (prev 100): 26.425 - Average Score (prev 100): 4.25 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8600 - Average Return (prev 100): 24.125 - Average Score (prev 100): 4.07 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8610 - Average Return (prev 100): 26.9 - Average Score (prev 100): 4.23 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8620 - Average Return (prev 100): 31.1 - Average Score (prev 100): 4.47 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8630 - Average Return (prev 100): 32.4 - Average Score (prev 100): 4.63 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8640 - Average Return (prev 100): 31.9 - Average Score (prev 100): 4.59 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8650 - Average Return (prev 100): 31.7 - Average Score (prev 100): 4.58 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8660 - Average Return (prev 100): 32.25 - Average Score (prev 100): 4.64 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8670 - Average Return (prev 100): 31.925 - Average Score (prev 100): 4.62 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8680 - Average Return (prev 100): 30.375 - Average Score (prev 100): 4.46 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8690 - Average Return (prev 100): 27.05 - Average Score (prev 100): 4.26 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8700 - Average Return (prev 100): 29.775 - Average Score (prev 100): 4.44 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8710 - Average Return (prev 100): 28.2 - Average Score (prev 100): 4.36 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8720 - Average Return (prev 100): 23.7 - Average Score (prev 100): 4.12 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8730 - Average Return (prev 100): 22.9 - Average Score (prev 100): 4.05 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8740 - Average Return (prev 100): 25.8 - Average Score (prev 100): 4.21 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8750 - Average Return (prev 100): 26.85 - Average Score (prev 100): 4.27 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8760 - Average Return (prev 100): 25.925 - Average Score (prev 100): 4.22 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8770 - Average Return (prev 100): 24.625 - Average Score (prev 100): 4.15 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8780 - Average Return (prev 100): 26.125 - Average Score (prev 100): 4.3 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8790 - Average Return (prev 100): 27.8 - Average Score (prev 100): 4.47 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8800 - Average Return (prev 100): 26.35 - Average Score (prev 100): 4.41 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8810 - Average Return (prev 100): 25.85 - Average Score (prev 100): 4.42 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8820 - Average Return (prev 100): 27.5 - Average Score (prev 100): 4.57 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8830 - Average Return (prev 100): 28.375 - Average Score (prev 100): 4.61 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8840 - Average Return (prev 100): 27.2 - Average Score (prev 100): 4.58 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8850 - Average Return (prev 100): 26.125 - Average Score (prev 100): 4.49 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8860 - Average Return (prev 100): 26.75 - Average Score (prev 100): 4.53 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8870 - Average Return (prev 100): 28.5 - Average Score (prev 100): 4.63 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8880 - Average Return (prev 100): 27.975 - Average Score (prev 100): 4.6 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8890 - Average Return (prev 100): 26.825 - Average Score (prev 100): 4.45 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8900 - Average Return (prev 100): 29.1 - Average Score (prev 100): 4.6 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8910 - Average Return (prev 100): 32.825 - Average Score (prev 100): 4.75 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8920 - Average Return (prev 100): 31.525 - Average Score (prev 100): 4.61 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8930 - Average Return (prev 100): 32.625 - Average Score (prev 100): 4.72 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8940 - Average Return (prev 100): 33.475 - Average Score (prev 100): 4.79 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8950 - Average Return (prev 100): 35.625 - Average Score (prev 100): 4.91 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8960 - Average Return (prev 100): 37.225 - Average Score (prev 100): 5.02 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8970 - Average Return (prev 100): 38.525 - Average Score (prev 100): 5.07 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8980 - Average Return (prev 100): 40.575 - Average Score (prev 100): 5.2 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 8990 - Average Return (prev 100): 39.9 - Average Score (prev 100): 5.2 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9000 - Average Return (prev 100): 39.25 - Average Score (prev 100): 5.12 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9010 - Average Return (prev 100): 36.225 - Average Score (prev 100): 4.96 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9020 - Average Return (prev 100): 37.675 - Average Score (prev 100): 5.04 - High Score: 13 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9030 - Average Return (prev 100): 40.725 - Average Score (prev 100): 5.11 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9040 - Average Return (prev 100): 41.5 - Average Score (prev 100): 5.14 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9050 - Average Return (prev 100): 42.1 - Average Score (prev 100): 5.2 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9060 - Average Return (prev 100): 42.925 - Average Score (prev 100): 5.29 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9070 - Average Return (prev 100): 40.725 - Average Score (prev 100): 5.19 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9080 - Average Return (prev 100): 42.0 - Average Score (prev 100): 5.23 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9090 - Average Return (prev 100): 45.25 - Average Score (prev 100): 5.41 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9100 - Average Return (prev 100): 42.925 - Average Score (prev 100): 5.28 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9110 - Average Return (prev 100): 41.775 - Average Score (prev 100): 5.26 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9120 - Average Return (prev 100): 40.575 - Average Score (prev 100): 5.21 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9130 - Average Return (prev 100): 36.275 - Average Score (prev 100): 5.02 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9140 - Average Return (prev 100): 34.575 - Average Score (prev 100): 4.84 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9150 - Average Return (prev 100): 33.775 - Average Score (prev 100): 4.75 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9160 - Average Return (prev 100): 33.625 - Average Score (prev 100): 4.66 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9170 - Average Return (prev 100): 33.8 - Average Score (prev 100): 4.65 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9180 - Average Return (prev 100): 31.85 - Average Score (prev 100): 4.55 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9190 - Average Return (prev 100): 29.775 - Average Score (prev 100): 4.43 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9200 - Average Return (prev 100): 29.325 - Average Score (prev 100): 4.35 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9210 - Average Return (prev 100): 28.625 - Average Score (prev 100): 4.3 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9220 - Average Return (prev 100): 28.525 - Average Score (prev 100): 4.29 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9230 - Average Return (prev 100): 28.725 - Average Score (prev 100): 4.27 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9240 - Average Return (prev 100): 26.625 - Average Score (prev 100): 4.16 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9250 - Average Return (prev 100): 25.225 - Average Score (prev 100): 4.11 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9260 - Average Return (prev 100): 26.625 - Average Score (prev 100): 4.22 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9270 - Average Return (prev 100): 26.075 - Average Score (prev 100): 4.21 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9280 - Average Return (prev 100): 24.475 - Average Score (prev 100): 4.07 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9290 - Average Return (prev 100): 24.85 - Average Score (prev 100): 4.07 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9300 - Average Return (prev 100): 27.975 - Average Score (prev 100): 4.34 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9310 - Average Return (prev 100): 28.775 - Average Score (prev 100): 4.4 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9320 - Average Return (prev 100): 31.6 - Average Score (prev 100): 4.59 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9330 - Average Return (prev 100): 30.45 - Average Score (prev 100): 4.57 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9340 - Average Return (prev 100): 33.25 - Average Score (prev 100): 4.77 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9350 - Average Return (prev 100): 34.525 - Average Score (prev 100): 4.84 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9360 - Average Return (prev 100): 32.625 - Average Score (prev 100): 4.76 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9370 - Average Return (prev 100): 36.6 - Average Score (prev 100): 5.0 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9380 - Average Return (prev 100): 40.725 - Average Score (prev 100): 5.29 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9390 - Average Return (prev 100): 40.075 - Average Score (prev 100): 5.24 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9400 - Average Return (prev 100): 40.1 - Average Score (prev 100): 5.21 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9410 - Average Return (prev 100): 41.8 - Average Score (prev 100): 5.29 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9420 - Average Return (prev 100): 39.15 - Average Score (prev 100): 5.13 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9430 - Average Return (prev 100): 38.95 - Average Score (prev 100): 5.09 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9440 - Average Return (prev 100): 37.95 - Average Score (prev 100): 5.05 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9450 - Average Return (prev 100): 38.05 - Average Score (prev 100): 5.1 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9460 - Average Return (prev 100): 39.075 - Average Score (prev 100): 5.15 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9470 - Average Return (prev 100): 36.7 - Average Score (prev 100): 4.98 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9480 - Average Return (prev 100): 33.8 - Average Score (prev 100): 4.83 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9490 - Average Return (prev 100): 34.65 - Average Score (prev 100): 4.94 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9500 - Average Return (prev 100): 33.25 - Average Score (prev 100): 4.85 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9510 - Average Return (prev 100): 32.975 - Average Score (prev 100): 4.84 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9520 - Average Return (prev 100): 32.925 - Average Score (prev 100): 4.81 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9530 - Average Return (prev 100): 34.8 - Average Score (prev 100): 4.93 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9540 - Average Return (prev 100): 37.175 - Average Score (prev 100): 5.03 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9550 - Average Return (prev 100): 35.575 - Average Score (prev 100): 4.92 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9560 - Average Return (prev 100): 34.75 - Average Score (prev 100): 4.86 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9570 - Average Return (prev 100): 33.9 - Average Score (prev 100): 4.82 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9580 - Average Return (prev 100): 32.75 - Average Score (prev 100): 4.72 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9590 - Average Return (prev 100): 34.625 - Average Score (prev 100): 4.81 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9600 - Average Return (prev 100): 35.4 - Average Score (prev 100): 4.9 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9610 - Average Return (prev 100): 35.425 - Average Score (prev 100): 4.85 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9620 - Average Return (prev 100): 35.425 - Average Score (prev 100): 4.85 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9630 - Average Return (prev 100): 34.95 - Average Score (prev 100): 4.83 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9640 - Average Return (prev 100): 34.0 - Average Score (prev 100): 4.79 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9650 - Average Return (prev 100): 36.05 - Average Score (prev 100): 4.89 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9660 - Average Return (prev 100): 36.85 - Average Score (prev 100): 4.97 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9670 - Average Return (prev 100): 39.55 - Average Score (prev 100): 5.17 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9680 - Average Return (prev 100): 44.275 - Average Score (prev 100): 5.47 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9690 - Average Return (prev 100): 44.825 - Average Score (prev 100): 5.5 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9700 - Average Return (prev 100): 43.775 - Average Score (prev 100): 5.39 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9710 - Average Return (prev 100): 42.375 - Average Score (prev 100): 5.34 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9720 - Average Return (prev 100): 42.475 - Average Score (prev 100): 5.35 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9730 - Average Return (prev 100): 44.075 - Average Score (prev 100): 5.38 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9740 - Average Return (prev 100): 46.1 - Average Score (prev 100): 5.46 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9750 - Average Return (prev 100): 45.125 - Average Score (prev 100): 5.41 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9760 - Average Return (prev 100): 45.9 - Average Score (prev 100): 5.41 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9770 - Average Return (prev 100): 43.1 - Average Score (prev 100): 5.19 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9780 - Average Return (prev 100): 41.075 - Average Score (prev 100): 5.02 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9790 - Average Return (prev 100): 38.425 - Average Score (prev 100): 4.91 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9800 - Average Return (prev 100): 38.325 - Average Score (prev 100): 4.93 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9810 - Average Return (prev 100): 39.675 - Average Score (prev 100): 5.01 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9820 - Average Return (prev 100): 39.675 - Average Score (prev 100): 5.02 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9830 - Average Return (prev 100): 36.925 - Average Score (prev 100): 4.91 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9840 - Average Return (prev 100): 33.975 - Average Score (prev 100): 4.8 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9850 - Average Return (prev 100): 36.3 - Average Score (prev 100): 4.94 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9860 - Average Return (prev 100): 35.3 - Average Score (prev 100): 4.89 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9870 - Average Return (prev 100): 36.3 - Average Score (prev 100): 4.97 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9880 - Average Return (prev 100): 36.05 - Average Score (prev 100): 4.94 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9890 - Average Return (prev 100): 38.1 - Average Score (prev 100): 5.06 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9900 - Average Return (prev 100): 42.35 - Average Score (prev 100): 5.27 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9910 - Average Return (prev 100): 39.475 - Average Score (prev 100): 5.04 - High Score: 16 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9920 - Average Return (prev 100): 47.225 - Average Score (prev 100): 5.36 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9930 - Average Return (prev 100): 50.375 - Average Score (prev 100): 5.5 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9940 - Average Return (prev 100): 52.4 - Average Score (prev 100): 5.6 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9950 - Average Return (prev 100): 51.075 - Average Score (prev 100): 5.51 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9960 - Average Return (prev 100): 49.9 - Average Score (prev 100): 5.41 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9970 - Average Return (prev 100): 48.95 - Average Score (prev 100): 5.35 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9980 - Average Return (prev 100): 48.575 - Average Score (prev 100): 5.39 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 9990 - Average Return (prev 100): 47.475 - Average Score (prev 100): 5.29 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 10000 - Average Return (prev 100): 44.625 - Average Score (prev 100): 5.13 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 10010 - Average Return (prev 100): 48.8 - Average Score (prev 100): 5.4 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 10020 - Average Return (prev 100): 43.6 - Average Score (prev 100): 5.22 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 10030 - Average Return (prev 100): 45.3 - Average Score (prev 100): 5.38 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 10040 - Average Return (prev 100): 44.55 - Average Score (prev 100): 5.22 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 10050 - Average Return (prev 100): 49.625 - Average Score (prev 100): 5.42 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 10060 - Average Return (prev 100): 49.925 - Average Score (prev 100): 5.45 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 10070 - Average Return (prev 100): 53.15 - Average Score (prev 100): 5.6 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 10080 - Average Return (prev 100): 53.8 - Average Score (prev 100): 5.66 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 10090 - Average Return (prev 100): 55.875 - Average Score (prev 100): 5.78 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 10100 - Average Return (prev 100): 56.05 - Average Score (prev 100): 5.77 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 10110 - Average Return (prev 100): 54.075 - Average Score (prev 100): 5.7 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 10120 - Average Return (prev 100): 56.525 - Average Score (prev 100): 5.81 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 10130 - Average Return (prev 100): 51.625 - Average Score (prev 100): 5.53 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 10140 - Average Return (prev 100): 51.975 - Average Score (prev 100): 5.66 - High Score: 17 - Epsilon: 0.09999705979442229
+ 
+Epoch: 10150 - Average Return (prev 100): 46.725 - Average Score (prev 100): 5.44 - High Score: 17 - Epsilon: 0.09999705979442229
