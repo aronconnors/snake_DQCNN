@@ -2,7 +2,7 @@
 import numpy as np
 from PIL import Image
 import torch
-from dueling.wrapper import *
+from wrapper import *
 import os
 from model import AtariNet
 from agent import Agent
@@ -19,8 +19,21 @@ model = AtariNet(nb_actions=4)
 
 model.to(device)
 
-model.load_the_model()
+'''models = []
+for filename in os.listdir('models/savedModels'):
+    if filename.endswith('.pt'):
+        models.append(filename)
 
-agent = Agent(model=model, device=device, epsilon=0.005, nb_warmup=5000, nb_actions=4, learning_rate=0.00001, memory_capacity=1000000, batch_size=64)
+for testModel in models:
+    print('\n')
+    print('\n')
+    print('\n')
+    print('\n')
+    print('\n')
+    print(testModel)'''
+
+model.load_the_model() #'models/savedModels/'+testModel)
+
+agent = Agent(model=model, device=device, epsilon=0.005, nb_warmup=5000, min_epsilon=0, nb_actions=4, learning_rate=0.00001, memory_capacity=1000000, batch_size=64)
 
 agent.test(env=environment)

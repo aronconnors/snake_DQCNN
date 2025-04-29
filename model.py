@@ -58,9 +58,13 @@ class AtariNet(nn.Module):
             os.makedirs('models')
         torch.save(self.state_dict(), weights_filename)
 
-    def load_the_model(self, weights_filename=f'models/savedModels/{settings.LOAD_MODEL_NAME}.pt'):
+    def load_the_model(self, weights_filename=f'models/savedModels/{settings.LOAD_MODEL_NAME}'):
         try:
             self.load_state_dict(torch.load(weights_filename))
             print(f"Successfully loaded weights file {weights_filename}")
-        except:
-            print(f"No weights file available at {weights_filename}")
+        except FileNotFoundError:
+            print(f"Error: Weights file not found at {weights_filename}")
+        except RuntimeError as e:
+            print(f"Error loading weights from {weights_filename}: {e}")
+        except Exception as e:  # Catch any other potential errors
+            print(f"An unexpected error occurred while loading {weights_filename}: {e}")

@@ -136,7 +136,8 @@ class Agent:
         return stats
     
     def test(self, env):
-        for epoch in range(1,3):
+        for epoch in range(1,25):
+        #while True:
             state = env.reset()
 
             done = False

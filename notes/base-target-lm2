@@ -1,0 +1,29 @@
+nohup python -u main.py > runs/base-target-lm2.txt 2>&1 &
+
+
+
+#MODEL PERAMETERS
+
+TRAIN_LR = 0.0001
+
+TARGET_NETWORK = True
+
+#base or dueling
+MODEL_ARCHITECTURE = 'base'
+
+
+#FILE NAMES
+
+GRAPH_NAME = 'base-target-lm2'
+
+MODEL_NAME = 'base-target-lm2'
+
+LOAD_MODEL_NAME = ''
+
+
+#GAME SETTINGS
+
+#standard, findFood or lengthMax
+REWARD_STRUCTURE = 'lengthMax'
+
+SNAKE_SPEED = 500

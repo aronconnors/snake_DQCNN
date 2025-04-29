@@ -87,7 +87,10 @@ class SnakeGameAI:
         game_over = False
         if self.is_collision() or self.frame_iteration > 100*len(self.snake):
             game_over = True
-            reward = -10
+            if settings.REWARD_STRUCTURE == 'lengthMax':
+                reward = -(0.25*self.score)*10
+            else:
+                reward = -10
             return pygame.surfarray.array3d(self.display), reward, game_over, self.score
             
         # 4. place new food or just move

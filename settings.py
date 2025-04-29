@@ -1,8 +1,8 @@
 #MODEL PERAMETERS
 
-TRAIN_LR = 0.0001
+TRAIN_LR = 0.00001
 
-TARGET_NETWORK = False
+TARGET_NETWORK = True
 
 #base or dueling
 MODEL_ARCHITECTURE = 'base'
@@ -10,11 +10,11 @@ MODEL_ARCHITECTURE = 'base'
 
 #FILE NAMES
 
-GRAPH_NAME = 'base-noTarget-lm'
+GRAPH_NAME = 'freeAim'
 
-MODEL_NAME = 'base-noTarget-lm'
+MODEL_NAME = 'freeAim'
 
-LOAD_MODEL_NAME = ''
+LOAD_MODEL_NAME = 'freeAim_123000.pt'
 
 
 #GAME SETTINGS
