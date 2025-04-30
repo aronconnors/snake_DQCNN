@@ -14,7 +14,7 @@ GRAPH_NAME = 'freeAim'
 
 MODEL_NAME = 'freeAim'
 
-LOAD_MODEL_NAME = 'freeAim_123000.pt'
+LOAD_MODEL_NAME = 'freeAim_163000.pt'
 
 
 #GAME SETTINGS
